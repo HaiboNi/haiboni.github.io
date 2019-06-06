@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haibo Ni / Site Title"
+title                    : "Haibo Ni"
 title_separator          : "-"
 name                     : &name "Haibo Ni"
-description              : &description "personal description"
+description              : &description "test personal description"
 url                      : haiboni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haiboni.github.io"

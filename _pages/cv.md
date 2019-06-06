@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Mechanical Engineering, Harbin Institute of Technology, China, 2010
+* M.E. in Mechanical Engineering, Harbin Institute of Technology, China, 2012
+* Ph.D in Physics, The Unversity of Manchester, UK, 2017
 
-Work experience
+Work experience - Test
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,7 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Skills - Test
 ======
 * Skill 1
 * Skill 2
@@ -36,7 +36,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Publications 
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
