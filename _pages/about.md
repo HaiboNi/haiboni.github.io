@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
-I am a postdoc working in the GrandiLab@UCDavis(https://elegrandi.wixsite.com/grandilab). I was trained in mechanical engineering and manufacturing and obtained PhD in computational biological physics. My current research interests involve deleloping and applying computational models of cardiomyocytes to uncover diseases mechanisms and improve theraputics.
+Welcome!
+
+I am a postdoc working in the [GrandiLab@UCDavis](https://elegrandi.wixsite.com/grandilab). I was trained in mechanical engineering and manufacturing and obtained PhD in computational biological physics. My current research interests involve deleloping and applying computational models of cardiomyocytes to uncover diseases mechanisms and improve theraputics.
 
 
 
