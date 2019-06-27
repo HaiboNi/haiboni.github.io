@@ -83,7 +83,7 @@ author:
   name             : "Dr Haibo Ni"
   avatar           : "profile.png"
   # bio              : "Your biography for the left-hand sidebar"
-  bio              : "Postdoctoral researcher aiming to develop and apply computational models to understand cardiac arrhythmias and improve therapeutics. "
+  bio              : "Postdoctoral researcher interested in developing and applying computational models to understand cardiac arrhythmias and improve therapeutics."
 
   location         : "Davis, CA"
   employer         :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "haiboni.github.io"
+  github           : "https://github.com/HaiboNi"
   google_plus      :
   keybase          :
   instagram        :
