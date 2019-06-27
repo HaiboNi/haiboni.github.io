@@ -13,7 +13,6 @@ Welcome!
 I am a postdoc working in the [GrandiLab@UCDavis](https://elegrandi.wixsite.com/grandilab). I was trained in mechanical engineering and manufacturing and obtained PhD in computational biological physics. My current research interests involve developing and applying computational models of cardiomyocytes to uncover disease mechanisms and improve theraputics.
 
 [My Google Scholar Page](https://scholar.google.com/citations?user=sdywTqEAAAAJ&hl=en)  
-
 [My Researchgate Page](https://www.researchgate.net/profile/Haibo_Ni)
 
 
