@@ -16,7 +16,7 @@ I am a postdoc working in the [GrandiLab@UCDavis](https://elegrandi.wixsite.com/
 [My Researchgate Page](https://www.researchgate.net/profile/Haibo_Ni)
 
 
-The website was forked from [academicpages template](https://github.com/academicpages/academicpages.github.io), and has not yet been editted to reflect my activity. 
+The website was forked from [academicpages template](https://github.com/academicpages/academicpages.github.io), and has not yet been modified. 
 
 
 
