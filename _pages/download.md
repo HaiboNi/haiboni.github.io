@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Source code
 ======
-* B.E. in Mechanical Engineering, Harbin Institute of Technology, China, 2010
-* M.E. in Mechanical Engineering, Harbin Institute of Technology, China, 2012
-* Ph.D in Physics, The Unversity of Manchester, UK, 2017
-
+* [Ni_etal_2017_Front_Physiol](https://github.com/HaiboNi/Ni_etal_2017_Front_Physiol) 
+Single cell model from: H Ni, DG Whittaker, W Wang, WR Giles, SM Narayan, H Zhang. Synergistic anti-arrhythmic effects in human atria with combined use of sodium blockers and acacetin. Frontiers in physiology 8, 946
+<!-- 
 Work experience - Test
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +56,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
