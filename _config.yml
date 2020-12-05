@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haibo Ni"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Haibo Ni"
 description              : &description "test personal description"
