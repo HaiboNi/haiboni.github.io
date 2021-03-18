@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Haibo Ni"
+  name             : "Haibo Ni"
   avatar           : "profile.png"
   # bio              : "Your biography for the left-hand sidebar"
   bio              : "Postdoctoral researcher interested in developing and applying computational models to understand cardiac arrhythmias and improve therapeutics."
@@ -214,6 +214,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar__right: true
+      toc: true
   # _teaching
   - scope:
       path: ""
@@ -279,8 +281,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-include-cache
-  - jekyll-include-cache
+  # - jekyll-include-cache
+  # - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -289,8 +291,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
-  - jekyll-include-cache
+  # - jekyll-include-cache
+  # - jekyll-include-cache
 
 
 # Archives
