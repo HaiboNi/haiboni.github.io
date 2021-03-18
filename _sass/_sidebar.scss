@@ -53,6 +53,7 @@
   margin-bottom: 1em;
   
   @include breakpoint($large) {
+   @include span(2 of 12 last);
     position: sticky !important;
     float: right !important;
     top: 0;

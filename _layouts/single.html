@@ -66,9 +66,19 @@ layout: default
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'align-justify' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
               {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
             </nav> -->
-            <a class="twitter-timeline" data-width="350" href="https://twitter.com/HaiboNi?ref_src=twsrc%5Etfw">Tweets by HaiboNi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+            <a class="twitter-timeline" 
+                  data-width="350" 
+                  data-height="1000" 
+                  href="https://twitter.com/HaiboNi?ref_src=twsrc%5Etfw"  
+                  data-chrome="noscrollbar"
+                  
+                  >
+                Tweets by HaiboNi</a> 
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+                  
+                </script> 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
-  {% if page.id and page.related and site.related_posts.size > 0 %}
+<!--   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
       {% if site.data.ui-text[site.locale].related_label %}
         <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
@@ -79,11 +89,11 @@ layout: default
         {% endfor %}
       </div>
     </div>
-  {% endif %}
+  {% endif %} -->
           </aside>
         {% endif %}
       <!-- </section> -->
-        
+
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
