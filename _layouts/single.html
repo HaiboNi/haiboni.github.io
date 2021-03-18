@@ -73,6 +73,10 @@ layout: default
       {% include comments.html %}
     {% endif %}
   </article>
+
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
 <a class="twitter-timeline" data-width="230" href="https://twitter.com/HaiboNi?ref_src=twsrc%5Etfw">Tweets by HaiboNi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
@@ -87,4 +91,6 @@ layout: default
       </div>
     </div>
   {% endif %}
+   </article>
+
 </div>
