@@ -150,6 +150,7 @@
   &--small {
     font-size: $type-size-7;
   }
+
   /* research page buttons */
   &--research {
   display: inline-block;
@@ -166,5 +167,6 @@
   &:hover {
     color: #fff;
     background-color: $link-color !important;
+  }
   }
 }
