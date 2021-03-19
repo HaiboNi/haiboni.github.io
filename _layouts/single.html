@@ -83,13 +83,15 @@ layout: default
          <!-- <article class="page__content" itemprop="text"> -->
         {% if page.toc %}
           <article class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+
+            <!-- <h3 class="page__meta-title">twitter</h3> -->
             <!--             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'align-justify' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
               {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
             </nav> -->
             <a class="twitter-timeline" 
                   data-width="350" 
-                  data-height="1000" 
+                  data-height="800" 
                   href="https://twitter.com/HaiboNi?ref_src=twsrc%5Etfw"  
                   data-chrome="noscrollbar"
                   
