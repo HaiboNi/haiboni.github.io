@@ -59,7 +59,40 @@ layout: default
       </section>
 
 
-
+         <!-- <section class="page__content" itemprop="text"> -->
+        {% if page.toc %}
+          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+            <!--             <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'align-justify' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
+              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
+            </nav> -->
+            <a class="twitter-timeline" 
+                  data-width="350" 
+                  data-height="1000" 
+                  href="https://twitter.com/HaiboNi?ref_src=twsrc%5Etfw"  
+                  data-chrome="noscrollbar"
+                  
+                  >
+                Tweets by HaiboNi</a> 
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+                  
+                </script> 
+  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
+<!--   {% if page.id and page.related and site.related_posts.size > 0 %}
+    <div class="page__related">
+      {% if site.data.ui-text[site.locale].related_label %}
+        <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
+      {% endif %}
+      <div class="grid__wrapper">
+        {% for post in site.related_posts limit:4 %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %} -->
+          </aside>
+        {% endif %}
+      <!-- </section> -->
 
 
       <footer class="page__meta">
@@ -78,30 +111,6 @@ layout: default
       {% include comments.html %}
     {% endif %}
   </article>
-
-
-         <!-- <article class="page__content" itemprop="text"> -->
-        {% if page.toc %}
-          <article class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
-            <!--             <nav class="toc">
-              <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'align-justify' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
-              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
-            </nav> -->
-            <a class="twitter-timeline" 
-                  data-width="350" 
-                  data-height="1000" 
-                  href="https://twitter.com/HaiboNi?ref_src=twsrc%5Etfw"  
-                  data-chrome="noscrollbar"
-                  
-                  >
-                Tweets by HaiboNi</a> 
-                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-                  
-                </script> 
-  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
-          </article>
-        {% endif %}
-      <!-- </article> -->
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}

@@ -15,6 +15,7 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
+    position: sticky !important;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -54,15 +55,15 @@
   
   @include breakpoint($large) {
    @include span(2 of 12 last);
-    position: sticky !important;
+    // position: sticky !important;
     float: right !important;
-    top: 0;
-    right: 0;
-    width: $right-sidebar-width-narrow;
-    margin-right: -1 * $right-sidebar-width-narrow;
+   // top: 0;
+   right: 0;
+     width: $right-sidebar-width-narrow;
+    margin-right: -0.3 * $right-sidebar-width-narrow;
     padding-left: 1em;
     padding-top: 1em !important;
-    z-index: 10;
+   // z-index: 10;
   }
 }
 
