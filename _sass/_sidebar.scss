@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(2.5 of 12);
     position: sticky !important;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
@@ -54,15 +54,15 @@
   margin-bottom: 1em;
   
   @include breakpoint($large) {
-   @include span(2 of 12 last);
+   @include span(2.4 of 12 last);
     // position: sticky !important;
     float: right !important;
-   // top: 0;
+   top: 0;
    right: 0;
-     width: $right-sidebar-width-narrow;
-    margin-right: -0.3 * $right-sidebar-width-narrow;
+     // width: $right-sidebar-width-narrow;
+    margin-right: -0.0 * $right-sidebar-width-narrow;
     padding-left: 1em;
-    padding-top: -2em !important;
+    padding-top: -4em !important;
    // z-index: 10;
   }
 }

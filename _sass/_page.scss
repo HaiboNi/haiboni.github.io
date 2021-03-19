@@ -18,8 +18,8 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(8 of 12);
-    @include prefix(0 of 12);
+    @include span(7 of 12);
+    @include prefix(0.1 of 12);
     @include suffix(0 of 12);
   }
 
@@ -33,6 +33,26 @@
     }
   }
 }
+
+
+.page_archive {
+  @include breakpoint($large) {
+    @include span(12 of 12);
+    @include prefix(0.4 of 12);
+    @include suffix(0.4 of 12);
+  }
+
+  .page__inner-wrap {
+    @include full();
+
+    .page__content,
+    .page__meta,
+    .page__share {
+      @include full();
+    }
+  }
+}
+
 
 .page__title {
   margin-top: 0;
@@ -56,7 +76,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 0.95em;
   }
 
   /* paragraph indents */
