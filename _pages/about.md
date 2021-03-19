@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,6 +17,8 @@ I am a postdoc working in the [GrandiLab@UCDavis](https://elegrandi.wixsite.com/
 
 
 The website was forked from [academicpages template](https://github.com/academicpages/academicpages.github.io), and has not yet been modified. 
+
+
 
 <!-- 
 
