@@ -11,6 +11,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 title                    : "Haibo Ni"
+subtitle                 : "test"
 title_separator          : "-"
 name                     : &name "Haibo Ni"
 description              : &description "test personal description"
