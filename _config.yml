@@ -78,7 +78,7 @@ social:
 analytics:
   provider               : "google_analytics" # "custom" #google-universal" # false (default), "google", "google-universal", "custom"  "google" 
   # google_analytics: G-4MGJGN3E9S
-  tracking_id          : G-4MGJGN3E9S
+  tracking_id          : G-4MGJGN3E9S  # add your google analytics measurement ID here 
 
 google_analytics: G-4MGJGN3E9S
 
