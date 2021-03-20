@@ -28,9 +28,8 @@
 }
 
 .masthead__menu {
- float: center;
- margin-left: 0, auto;
- margin-right: 0, auto;
+
+
   ul {
     margin: 0, auto;
     padding: 0;
@@ -43,9 +42,13 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+	// float: right
+
 
   &--lg {
-    padding-right: 10em;
+	// float: right !important;
+
+    padding-right: 6em;
     font-weight: 700;
   }
 }
