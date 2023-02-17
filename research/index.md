@@ -16,8 +16,9 @@ My current and past research combines truly interdisciplinary technologies integ
 * New applications of heart-like cells induced from patient-derived stem cells: Quantitative Systems Pharmacology Platform integrating iPSC-CM system, computational modeling, and machine learning for screening antiarrhythmic drugs
 * Dissecting electro-mechanical coupling and feedback in the heart and its contribution to arrhythmia
 * Heart-torso model for studying ventricular arrhythmias and electrocardiograms (ECGs) and their responses to stressors
-* Sex-differences in cardiac electrophysiology
+* Sex differences in cardiac electrophysiology and arrhythmia
 * Untangling subcellular signalling network in arrhythmia mechanisms
+* Molecular and structural mechanisms of sinoatrial node dysfunction  
 {: .welcomefont}
 
 ---

@@ -11,6 +11,23 @@ group: publications
 Full pulblication list in [ORCID](https://orcid.org/0000-0003-0083-4286) and [Google Scholar](https://scholar.google.com/citations?user=sdywTqEAAAAJ&hl=en)
 
 ---
+### Most recent conference abtracts
+
+*	**H Ni**, X Zhang, Y Wu, D Lang, S Morotti, AV. Glukhov, E Grandi. 3D spatial modeling of sinoatrial node cells reveals a critical role of subcellular ryanodine receptor distribution in pacemaker automaticity. Biophysical Society 67th Annual Meeting, February 18-22, 2023  
+
+*	X Zhang, Y Wu, C Smith, S Morotti, E Grandi, **H Ni**. Modeling sex differences in human atrial myocyte structural and ca2+ handling properties: impact on ca2+-driven arrhythmia. Biophysical Society 67th Annual Meeting, February 18-22, 2023 
+
+
+---
+### Preprints
+
+* **Ni H**, S Morotti, Zhang X, Dobrev D, Grandi E. Integrative human atrial modeling unravels interactive PKA and CaMKII signaling as key determinant of atrial arrhythmogenesis. BioRxiv 489795 [Preprint]. April 27, 2022 [cited 2022 Nov 20].  Available from: https://doi.org/10.1101/2022.04.27.489795  (*Under Review*)
+
+*	Kervadec A, Kezos J, **Ni H**, Yu M, Spiering S, Kannan S, Andersen P, Grandi E, Ocorr K, Colas AR. Multiplatform Modeling of Atrial Fibrillation Identifies Phospholamban as Central Regulator of Cardiac Rhythm. BioRxiv 509238.  [Preprint]. Sep 26, 2022 [cited 2022 Nov 20].  Available from: https://doi.org/10.1101/2022.09.23.509238 (*Under Review*)
+
+
+---
+### Peer-reviewed Journal Articles
 
 1.	Ding Y, Lang D, Yan J, Bu H, Li H, Jiao K, Yang J, **Ni H**, Morotti S, Le T, Clark KJ, Port J, Ekker SC, Cao H, Zhang Y, Wang J, Grandi E, Li Z, Shi Y, Li Y, Glukhov AV, Xu X. A phenotype-based forward genetic screen identifies Dnajb6 as a sick sinus syndrome gene. Elife. 2022 Oct 18;11:e77327. 
 
