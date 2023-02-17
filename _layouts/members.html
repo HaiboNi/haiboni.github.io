@@ -1,0 +1,19 @@
+{% include header.html %}
+<div class="container">
+
+   <div class="row">
+       <div class="col-sm-9">
+           <br>
+           {{ content }}
+    </div>
+    <div class="col-sm-3 smalltxt">
+        <br>
+        <!-- <div class="col-sm-5 col-md-4 hidden-xs"> -->
+            {% include twitter_sidebar.html %}
+         <!-- </div> -->
+        {{ sidebar | markdownify }}
+    </div>
+</div>
+<br>
+</div>
+{% include footer.html %}
