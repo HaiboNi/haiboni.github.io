@@ -18,7 +18,7 @@ My current and past research combines truly interdisciplinary technologies integ
 * Heart-torso model for studying ventricular arrhythmias and electrocardiograms (ECGs) and their responses to stressors
 * Sex differences in cardiac electrophysiology and arrhythmia
 * Untangling subcellular signalling network in arrhythmia mechanisms
-* Molecular and structural mechanisms of sinoatrial node dysfunction  
+* Molecular and structural mechanisms of sinus node dysfunction  
 {: .welcomefont}
 
 ---
