@@ -8,6 +8,27 @@ group: home
 
 <!-- # Welcome to the Wang Lab -->
 
+
+
+
+<div style="display:inline-block;vertical-align:top;float:left;padding-right:1em">
+
+<img src="/docs/members/HNi.jpg" alt="Trulli" width="220" HSPACE="10" VSPACE="10" >
+<div>
+<!-- <div class='row' syle='float:left'> -->
+**Haibo Ni**, Ph.D.    
+Assistant Project Scientist   
+Department of Pharmacology  
+School of Medicine  
+University of California, Davis  
+<!-- email: hbni AT ucdavis dot edu -->
+</div>
+</div>
+
+
+{: .welcomefont}
+Welcome to my webpage. I am an Assistant Project Scientist at the Department of Pharmacology at University of California Davis. My research interests involve developing and applying multiscale and multiphysics models of the heart to uncover disease mechanisms and improve theraputics. 
+
 {: .welcomefont}
 The function of the heart as a robust blood pump is critically dependent on the rhythmic and coordinated electrical activation of the myocardium and the subsequent contraction through a process termed excitation-contraction (EC) coupling. Disruption of the normal activation rhythm or sequence, i.e. **cardiac arrhythmia**, is associated with numerous cardiovascular diseases, increases morbidity and mortality, and can lead to sudden cardiac death by causing ventricular dysfunction.
 
@@ -38,7 +59,10 @@ My research aims to develop **computational systems frameworks** and personalize
 
 </div>
 
+---
 <div class="col-md-4 col-ms-4">
+
+
 
 ### Contact
 
