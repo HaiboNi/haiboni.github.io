@@ -49,6 +49,10 @@
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
+.postsfont {
+  font-size: 1.2em;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
 
 
 .carousel-indicators li {
@@ -85,7 +89,9 @@ p{
  }
 
 .body {
-      font-family: "Times New Roman", Times, serif;
+/*      font-family: "Times New Roman", Times, serif;*/
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
 }
 
 /*

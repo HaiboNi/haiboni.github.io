@@ -13,7 +13,7 @@ group: home
 
 <div style="display:inline-block;vertical-align:top;float:left;padding-right:1em">
 
-<img src="/docs/members/HNi.jpg" alt="Trulli" width="220" HSPACE="10" VSPACE="10" >
+<img src="/docs/members/HNi.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="10" VSPACE="5" >
 <div>
 <!-- <div class='row' syle='float:left'> -->
 **Haibo Ni**, Ph.D.    
@@ -55,6 +55,8 @@ My research aims to develop **computational systems frameworks** and personalize
     <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
   {% endfor %}
 </ul>
+
+<!-- {% include_relative news/news.md %} -->
 
 
 </div>

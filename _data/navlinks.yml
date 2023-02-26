@@ -2,6 +2,11 @@
   link: "/"
   group: home
 
+- name: about me
+  link: "/about_me"
+  group: about_me
+
+
 - name: research
   link: "/research"
   group: research
@@ -10,9 +15,6 @@
   link: "/publications"
   group: publications
 
-- name: about me
-  link: "/about_me"
-  group: about_me
 
 - name: news
   link: "/news"
