@@ -11,9 +11,9 @@ group: home
 
 
 
-<div style="display:inline-block;vertical-align:top;float:left;padding-right:1em">
+<div style="display:inline-block;vertical-align:top;float:left;padding-right:1.25em">
 
-<img src="/docs/members/HNi.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="10" VSPACE="5" >
+<img class="img-fluid" src="/docs/members/HNi.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >
 <div>
 <!-- <div class='row' syle='float:left'> -->
 **Haibo Ni**, Ph.D.    
@@ -27,7 +27,7 @@ University of California, Davis
 
 
 {: .welcomefont}
-Welcome to my webpage. I am an Assistant Project Scientist at the Department of Pharmacology at University of California Davis. My research interests involve developing and applying multiscale and multiphysics models of the heart to uncover disease mechanisms and improve theraputics. 
+Welcome to my webpage. I am an Assistant Project Scientist at the Department of Pharmacology at University of California Davis. My research interests involve developing and applying multiscale and multiphysics models of the heart to uncover disease mechanisms and improve therapeutics. 
 
 {: .welcomefont}
 The function of the heart as a robust blood pump is critically dependent on the rhythmic and coordinated electrical activation of the myocardium and the subsequent contraction through a process termed excitation-contraction (EC) coupling. Disruption of the normal activation rhythm or sequence, i.e. **cardiac arrhythmia**, is associated with numerous cardiovascular diseases, increases morbidity and mortality, and can lead to sudden cardiac death by causing ventricular dysfunction.
@@ -51,12 +51,11 @@ My research aims to develop **computational systems frameworks** and personalize
 
 <h3> News </h3>
 <ul>
-  {% for post in site.posts limit: 5 %}
+  {% for post in site.posts limit: 8 %}
     <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
   {% endfor %}
 </ul>
 
-<!-- {% include_relative news/news.md %} -->
 
 
 </div>

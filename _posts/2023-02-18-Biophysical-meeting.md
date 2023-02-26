@@ -15,7 +15,7 @@ group: news
 *	X Zhang, Y Wu, C Smith, S Morotti, E Grandi, **H Ni**. Modeling sex differences in human atrial myocyte structural and ca2+ handling properties: impact on Ca2+-driven arrhythmia. Biophysical Society 67th Annual Meeting, February 18-22, 2023 
 
 
-* KT Hellgren, **H Ni**, S Morotti, E Grandi. Quantitative male-to-female translation of cardiac electrophysiological response to drugs. Biophysical Society 67th Annual Meeting, February 18-22, 2023. [Interview by BPS Newsroom: congrats!](https://www.biophysics.org/news-room?ArtMID=802&ArticleID=13404&preview=true)
+* KT Hellgren, **H Ni**, S Morotti, E Grandi. Quantitative male-to-female translation of cardiac electrophysiological response to drugs. Biophysical Society 67th Annual Meeting, February 18-22, 2023. [Dr. Hellgren's interview by BPS Newsroom: congrats!](https://www.biophysics.org/news-room?ArtMID=802&ArticleID=13404&preview=true)
 
 
 * NT Herrera, **H Ni**, D Dobrev, S Morotti, E Grandi. Sex-specific contribution of small-conductance Ca2+-activated K+ current to atrial electrophysiology and arrhythmogenesis. Biophysical Society 67th Annual Meeting, February 18-22, 2023 
