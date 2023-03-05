@@ -6,11 +6,10 @@ group: about_me
 # about me
 
 <div style="display:inline-block;vertical-align:top;float:left;padding-right:1.35em">
-
-<img class="img-fluid" src="/docs/members/HNi.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >
-<div >
+<img class="img-fluid" src="/docs/members/HNi.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >  
+<!-- <div> -->
 **Haibo Ni**, Ph.D.    
-Assistant Project Scientist   
+*Assistant Project Scientist*   
 Department of Pharmacology  
 University of California, Davis  
 email: hbni AT ucdavis dot edu  
@@ -21,7 +20,7 @@ email: hbni AT ucdavis dot edu
 <a href="http://twitter.com"><img class="inline-block mem-icon" src="/docs/logo/twitter_logo.svg"></a>
 <a href= "http://twitter.com/haiboni"> @haiboni </a>
 {: .small_font}
-</div>
+<!-- </div> -->
 </div>
 
 {: .postsfont}

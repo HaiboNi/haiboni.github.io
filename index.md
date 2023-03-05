@@ -12,27 +12,25 @@ group: home
 
 
 <div style="display:inline-block;vertical-align:top;float:left;padding-right:1.25em">
-
-<img class="img-fluid" src="/docs/members/HNi.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >
-<div>
-<!-- <div class='row' syle='float:left'> -->
+<img class="img-fluid" src="/docs/members/HNi.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >  
+<!-- <div> -->
 **Haibo Ni**, Ph.D.    
-Assistant Project Scientist   
+*Assistant Project Scientist*   
 Department of Pharmacology  
 School of Medicine  
-University of California, Davis  
-<!-- email: hbni AT ucdavis dot edu -->
-</div>
+University of California, Davis
+{: .small_font}
+<!-- </div> -->
 </div>
 
 
-{: .welcomefont}
+{: .postsfont}
 Welcome to my webpage. I am an Assistant Project Scientist at the Department of Pharmacology at University of California Davis. My research interests involve developing and applying multiscale and multiphysics models of the heart to uncover disease mechanisms and improve therapeutics. 
 
-{: .welcomefont}
+{: .postsfont}
 The function of the heart as a robust blood pump is critically dependent on the rhythmic and coordinated electrical activation of the myocardium and the subsequent contraction through a process termed excitation-contraction (EC) coupling. Disruption of the normal activation rhythm or sequence, i.e. **cardiac arrhythmia**, is associated with numerous cardiovascular diseases, increases morbidity and mortality, and can lead to sudden cardiac death by causing ventricular dysfunction.
 
-{: .welcomefont}
+{: .postsfont}
 My research aims to develop **computational systems frameworks** and personalized simulation pipelines for constructing ‘digital twins’ of humans to transform clinical therapeutic strategies for diseases. My studies developed multi-scale and multi-physics computational modeling platforms of the heart incorporating biophysically accurate and anatomically realistic features to dissect cardiac arrhythmia mechanisms and perform high-throughput screening of therapeutics. The computational models are built on experimental data describing cardiac electrophysiological properties to construct biophysically detailed cellular models; CT/MRI imaging data are integrated with the cellular models to construct anatomically accurate heart models to study electrical and mechanical functions of the heart. Our quantitative frameworks are applied to decipher cardiac arrhythmia mechanisms, and explore new frontiers of clinical treatment, including high-throughput screening of anti-arrhythmic drugs and determining drugs cardiotoxicities. Our ‘digital twins’ of human heart also facilitate virtual clinical trials and patient-specific therapeutic (e.g., catheter ablation) planning.  
 
 
