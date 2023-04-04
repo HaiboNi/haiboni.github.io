@@ -29,6 +29,8 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0003-0083-4286) and [Go
 ---
 ### Peer-reviewed Journal Articles
 
+1. Bartolucci C, **Ni H#**. Calcium-directed feedback control of the sinoatrial node robustness. Biophysical Journal. http://doi.org/10.1016/j.bpj.2023.03.040
+
 1.	Ding Y, Lang D, Yan J, Bu H, Li H, Jiao K, Yang J, **Ni H**, Morotti S, Le T, Clark KJ, Port J, Ekker SC, Cao H, Zhang Y, Wang J, Grandi E, Li Z, Shi Y, Li Y, Glukhov AV, Xu X. A phenotype-based forward genetic screen identifies Dnajb6 as a sick sinus syndrome gene. Elife. 2022 Oct 18;11:e77327. 
 
 2.	X. Zhang, **H. Ni**, S. Morotti, D. Sato, WE. Louch, AG. Edwards, E. Grandi. Mechanisms of spontaneous Ca2+ release‐mediated arrhythmia in a novel 3D human atrial myocyte model: I. Transverse‐axial tubule variation. The Journal of Physiology. 2022. doi.org/10.1113/JP283363 (highlighted in journal editorial comments)
