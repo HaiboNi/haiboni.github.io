@@ -9,7 +9,7 @@ group: research
 
 # Research 
 
-{: .welcomefont}
+{: .postsfont}
 My current and past research combines truly interdisciplinary technologies integrating mechanistic modelling, network modelling, machine learning, and wet-lab experiments, and seeks to expand our frontiers in the following areas: 
  <p style="text-align:center;">
 <img class="img-fluid mx-2px" src="/docs/research/Research_theme.png" alt="reseach image" style="width:900px">
@@ -24,7 +24,9 @@ My current and past research combines truly interdisciplinary technologies integ
 * Sex differences in cardiac electrophysiology and arrhythmia
 * Untangling subcellular signalling network in arrhythmia mechanisms
 * Molecular and structural mechanisms of sinus node dysfunction  
-{: .welcomefont}
+{: .postsfont}
+
+<!-- {: .welcomefont} -->
 
 
 
