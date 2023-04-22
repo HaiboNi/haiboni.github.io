@@ -10,7 +10,12 @@ group: research
 # Research 
 
 {: .welcomefont}
-My current and past research combines truly interdisciplinary technologies integrating mechanistic modelling, network modelling, machine learning, and wet-lab experiments, and seeks to expand our frontiers in the following areas:  
+My current and past research combines truly interdisciplinary technologies integrating mechanistic modelling, network modelling, machine learning, and wet-lab experiments, and seeks to expand our frontiers in the following areas: 
+ <p style="text-align:center;">
+<img class="img-fluid mx-2px" src="/docs/research/Research_theme.png" alt="reseach image" style="width:900px">
+</p>
+
+
 * Constructing biophysically and biochemically detailed digital twins of the human heart
 * Optimizing treatment strategy for heart rhythm disorders via personalized simulations
 * New applications of heart-like cells induced from patient-derived stem cells: Quantitative Systems Pharmacology Platform integrating iPSC-CM system, computational modeling, and machine learning for screening antiarrhythmic drugs
@@ -20,10 +25,6 @@ My current and past research combines truly interdisciplinary technologies integ
 * Untangling subcellular signalling network in arrhythmia mechanisms
 * Molecular and structural mechanisms of sinus node dysfunction  
 {: .welcomefont}
-
----
-
-
 
 
 
