@@ -2,7 +2,7 @@
 name: Haibo Ni, Ph.D.
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: /docs/members/HNi.jpg
+image: /docs/members/HNi_reduce.jpg
 position: Assistant Project Scientist
 #current:
 # pronouns: she/her/hers

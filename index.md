@@ -12,7 +12,7 @@ group: home
 
 
 <div style="display:inline-block;vertical-align:top;float:left;padding-right:1.25em">
-<img class="img-fluid" src="/docs/members/HNi.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >  
+<img class="img-fluid" src="/docs/members/HNi_reduce.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >  
 <!-- <div> -->
 **Haibo Ni**, Ph.D.    
 *Assistant Project Scientist*   

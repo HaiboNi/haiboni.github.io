@@ -12,7 +12,7 @@ group: research
 {: .postsfont}
 My current and past research combines truly interdisciplinary technologies integrating mechanistic modelling, network modelling, machine learning, and wet-lab experiments, and seeks to expand our frontiers in the following areas: 
  <p style="text-align:center;">
-<img class="img-fluid mx-2px" src="/docs/research/Research_theme.png" alt="reseach image" style="width:900px">
+<img class="img-fluid mx-2px" src="/docs/research/Research_theme_reduce.png" alt="reseach image" style="width:900px">
 </p>
 
 
