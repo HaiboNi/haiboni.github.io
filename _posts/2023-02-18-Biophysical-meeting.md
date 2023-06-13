@@ -13,6 +13,7 @@ group: news
 *	**H Ni**, X Zhang, Y Wu, D Lang, S Morotti, AV. Glukhov, E Grandi. 3D spatial modeling of sinoatrial node cells reveals a critical role of subcellular ryanodine receptor distribution in pacemaker automaticity. Biophysical Society 67th Annual Meeting, February 18-22, 2023  
 
 *	X Zhang, Y Wu, C Smith, S Morotti, E Grandi, **H Ni**. Modeling sex differences in human atrial myocyte structural and ca2+ handling properties: impact on Ca2+-driven arrhythmia. Biophysical Society 67th Annual Meeting, February 18-22, 2023 
+<!--more-->
 
 
 * KT Hellgren, **H Ni**, S Morotti, E Grandi. Quantitative male-to-female translation of cardiac electrophysiological response to drugs. Biophysical Society 67th Annual Meeting, February 18-22, 2023. [Dr. Hellgren's interview by BPS Newsroom: congrats!](https://www.biophysics.org/news-room?ArtMID=802&ArticleID=13404&preview=true)

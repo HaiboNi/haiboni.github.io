@@ -9,13 +9,32 @@
   </p>
 
 
-  <div class="content">
+<!--   <div class="content">
   {% if post.excerpt %}
-      {{ post.content }}
+      {{ post.excerpt }}
   {% else %}
       {{ post.content }}
   {% endif %}
+  </div> -->
+
+  <div class="content">
+
+{% if post.content contains '<!--more-->' %}
+    <div>
+        {{ post.content | split:'<!--more-->' | first }}
+    </div>
+    <input type="checkbox" class="read-more-state" id="{{ post.url }}"/>
+    <div class="read-more">
+        {{ post.content | split:'<!--more-->' | last }}
+    </div>
+    <label for="{{ post.url }}" class="read-more-trigger"></label>
+{% else %}
+    {{ post.content }}
+{% endif %}
+
   </div>
+
+
 {% endfor %}
 <hr>
 
