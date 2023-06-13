@@ -28,7 +28,7 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0003-0083-4286) and [Go
 ---
 ### Peer-reviewed Journal Articles
 
-1.	Kervadec A, Kezos J, **Ni H**, Yu M, Spiering S, Kannan S, Andersen P, Grandi E, Ocorr K, Colas AR. Multiplatform Modeling of Atrial Fibrillation Identifies Phospholamban as Central Regulator of Cardiac Rhythm. ***Disease Models & Mechanisms***.(*Accepted*)
+1.	Kervadec A, Kezos J, **Ni H**, Yu M, Spiering S, Kannan S, Andersen P, Grandi E, Ocorr K, Colas AR. Multiplatform Modeling of Atrial Fibrillation Identifies Phospholamban as Central Regulator of Cardiac Rhythm. ***Disease Models & Mechanisms***. 2023. 049962. 
 
 1. Bartolucci C, **Ni H#**. Calcium-directed feedback control of the sinoatrial node robustness. ***Biophysical Journal***. http://doi.org/10.1016/j.bpj.2023.03.040
 

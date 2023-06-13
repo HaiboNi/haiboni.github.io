@@ -7,8 +7,14 @@
     <span class="author"><a href="/about_me#{{post.author}}">{{post.author}}</a></span><br>
     <span class="date"><em>{{ post.date | date_to_long_string }}</em></span>
   </p>
+
+
   <div class="content">
-    {{ post.content }}
+  {% if post.excerpt %}
+      {{ post.content }}
+  {% else %}
+      {{ post.content }}
+  {% endif %}
   </div>
 {% endfor %}
 <hr>

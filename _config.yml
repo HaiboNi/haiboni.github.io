@@ -6,6 +6,7 @@ url: "haiboni.github.io"
 paginate: 5
 plugins: [jekyll-paginate]
 paginate_path: "news/page:num"
+# excerpt_separator: "\n\n"
 
 google_analytics: G-4MGJGN3E9S
 
