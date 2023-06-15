@@ -8,7 +8,7 @@ group: publications
 # Publications
 
 
-Full pulblication list in [ORCID](https://orcid.org/0000-0003-0083-4286) and [Google Scholar](https://scholar.google.com/citations?user=sdywTqEAAAAJ&hl=en)
+Full pulblication list in [ORCID](https://orcid.org/0000-0003-0083-4286), [Google Scholar](https://scholar.google.com/citations?user=sdywTqEAAAAJ&hl=en), and [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1-Wgd3_98Zmwjq/bibliography/public/)
 
 ---
 ### Most recent conference abtracts

@@ -36,6 +36,9 @@ I am an Assistant Project Scientist at the Department of Pharmacology at Univers
 * 2006 - 2010, B. Enginnering in Mechanical Engineering, Harbin Institute of Technology, China
 
 ### Professional service 
+Study section:
+* Member, American Heart Association Fellowship Application Review Committee - Cardiac Electrophysiology and Arrhythmias (cycles of 2020, 2021, 2022)
+
 I reviw manuscripts for the following journals on a regular basis:
 {: .smalltxt}
 * **Guest Associate Editor**: Frontiers in Physiology
@@ -59,4 +62,6 @@ I reviw manuscripts for the following journals on a regular basis:
 * JACC: Clinical Electrophysiology
 * Communications Biology
 * Biophysical Journal
+* Cardiovascular Drugs and Therapy
+
 

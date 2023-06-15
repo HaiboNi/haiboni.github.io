@@ -49,13 +49,10 @@ My research aims to develop **computational systems frameworks** and personalize
 
 <h3> News </h3>
 <ul>
-  {% for post in site.posts limit: 8 %}
+  {% for post in site.posts limit: 6 %}
     <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
   {% endfor %}
 </ul>
-
-
-
 </div>
 
 ---
@@ -72,10 +69,6 @@ School of Medicine
 University of California, Davis  
 email: hbni AT ucdavis dot edu
 </div>
-
-
-
-
 
 
 

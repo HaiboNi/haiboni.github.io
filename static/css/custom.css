@@ -134,6 +134,8 @@ p{
 .read-more-trigger {
   cursor: pointer;
   padding: -2em .5em;
+/*  padding-top: -5em;*/
+  margin-top: -0.5rem;
   color: #0085bd;
   line-height: 1.5;
 /*  border: 0px solid #0085bd;*/
