@@ -21,8 +21,9 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0003-0083-4286), [Googl
 ---
 ### Preprints
 
-* **Ni H**, S Morotti, Zhang X, Dobrev D, Grandi E. Integrative human atrial modeling unravels interactive PKA and CaMKII signaling as key determinant of atrial arrhythmogenesis. BioRxiv 489795 [Preprint]. April 27, 2022 [cited 2022 Nov 20].  Available from: https://doi.org/10.1101/2022.04.27.489795  (*Under Review*)
+* **Ni H**, Morotti S, Zhang X, Dobrev D, Grandi E. Integrative human atrial modeling unravels interactive PKA and CaMKII signaling as key determinant of atrial arrhythmogenesis. BioRxiv 489795 [Preprint]. April 27, 2022 [cited 2022 Nov 20].  Available from: https://doi.org/10.1101/2022.04.27.489795  (*Under Review*)
 
+* Herrera N, Zhang X, **Ni H**, Maleckar M, Heijman J, Dobrev D, Grandi E, Morotti S. Dual effects of the small-conductance Ca2+-activated K+ current on human atrial electrophysiology and Ca2+-driven arrhythmogenesis: an in silico study. bioRxiv 2023.06.16.545367; doi: https://doi.org/10.1101/2023.06.16.545367
 
 
 ---
@@ -34,7 +35,7 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0003-0083-4286), [Googl
 
 1.	Ding Y, Lang D, Yan J, Bu H, Li H, Jiao K, Yang J, **Ni H**, Morotti S, Le T, Clark KJ, Port J, Ekker SC, Cao H, Zhang Y, Wang J, Grandi E, Li Z, Shi Y, Li Y, Glukhov AV, Xu X. A phenotype-based forward genetic screen identifies Dnajb6 as a sick sinus syndrome gene. ***Elife***. 2022 Oct 18;11:e77327. 
 
-2.	X. Zhang, **H. Ni**, S. Morotti, D. Sato, WE. Louch, AG. Edwards, E. Grandi. Mechanisms of spontaneous Ca2+ release‐mediated arrhythmia in a novel 3D human atrial myocyte model: I. Transverse‐axial tubule variation. **The Journal of Physiology**. 2022. doi.org/10.1113/JP283363 (highlighted in journal editorial comments)
+2.	X. Zhang, **H. Ni**, S. Morotti, D. Sato, WE. Louch, AG. Edwards, E. Grandi. Mechanisms of spontaneous Ca2+ release‐mediated arrhythmia in a novel 3D human atrial myocyte model: I. Transverse‐axial tubule variation. ***The Journal of Physiology***. 2022. doi.org/10.1113/JP283363 (highlighted in journal editorial comments)
 
 3.	X. Zhang, C.E.R. Smith, S. Morotti, A.G. Edwards, D. Sato, W.E. Louch, **H. Ni**, E. Grandi. Mechanisms of spontaneous Ca2+ release-mediated arrhythmia in a novel 3D human atrial myocyte model: II. Ca2+ -handling protein variation. ***The Journal of Physiology***, 16 Sep 2022, DOI: 10.1113/jp283602 (highlighted in journal editorial comments)
 
