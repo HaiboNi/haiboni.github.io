@@ -21,12 +21,12 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0003-0083-4286), [Googl
 ---
 ### Preprints
 
-
-* Herrera N, Zhang X, **Ni H**, Maleckar M, Heijman J, Dobrev D, Grandi E, Morotti S. Dual effects of the small-conductance Ca2+-activated K+ current on human atrial electrophysiology and Ca2+-driven arrhythmogenesis: an in silico study. bioRxiv 2023.06.16.545367; doi: https://doi.org/10.1101/2023.06.16.545367
-
+* tba
 
 ---
 ### Peer-reviewed Journal Articles
+
+1. Herrera N, Zhang X, **Ni H**, Maleckar M, Heijman J, Dobrev D, Grandi E, Morotti S. Dual effects of the small-conductance Ca2+-activated K+ current on human atrial electrophysiology and Ca2+-driven arrhythmogenesis: an in silico study. ***American Journal of Physilology - Heart & Circulatory Physiology***. 2023. *In press* 
 
 1. **Ni H**, Morotti S, Zhang X, Dobrev D, Grandi E. Integrative human atrial modeling unravels interactive PKA and CaMKII signaling as key determinant of atrial arrhythmogenesis. ***Cardiovascular Research***. 2023. 10.1093/cvr/cvad118
 
