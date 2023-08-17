@@ -21,18 +21,23 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0003-0083-4286), [Googl
 ---
 ### Preprints
 
-* tba
+* Tba
 
 ---
 ### Peer-reviewed Journal Articles
 
-1. Herrera N, Zhang X, **Ni H**, Maleckar M, Heijman J, Dobrev D, Grandi E, Morotti S. Dual effects of the small-conductance Ca2+-activated K+ current on human atrial electrophysiology and Ca2+-driven arrhythmogenesis: an in silico study. ***American Journal of Physilology - Heart & Circulatory Physiology***. 2023. *In press* 
+
+1.	Hellgren KT, **Ni H**, Morotti S, Grandi E. Predictive male-to-female translation of cardiac electrophysiological response to drugs. ***JACC: Clinical Electrophysiology***. 2023. In press. 
+
+1. Herrera N, Zhang X, **Ni H**, Maleckar M, Heijman J, Dobrev D, Grandi E, Morotti S. Dual effects of the small-conductance Ca2+-activated K+ current on human atrial electrophysiology and Ca2+-driven arrhythmogenesis: an in silico study. ***American Journal of Physiology - Heart & Circulatory Physiology***. 2023. *In press* 
+
+1.	Bai J, Zhao J, **Ni H**, Yin D. Editorial: Diagnosis, monitoring, and treatment of heart rhythm: new insights and novel computational methods. ***Front. Physiol.***, August 2023. 10.3389/fphys.2023.1272377
 
 1. **Ni H**, Morotti S, Zhang X, Dobrev D, Grandi E. Integrative human atrial modeling unravels interactive PKA and CaMKII signaling as key determinant of atrial arrhythmogenesis. ***Cardiovascular Research***. 2023. 10.1093/cvr/cvad118
 
 1.	Kervadec A, Kezos J, **Ni H**, Yu M, Spiering S, Kannan S, Andersen P, Grandi E, Ocorr K, Colas AR. Multiplatform Modeling of Atrial Fibrillation Identifies Phospholamban as Central Regulator of Cardiac Rhythm. ***Disease Models & Mechanisms***. 2023. 049962. 
 
-1. Bartolucci C, **Ni H#**. Calcium-directed feedback control of the sinoatrial node robustness. ***Biophysical Journal***. http://doi.org/10.1016/j.bpj.2023.03.040
+1. Bartolucci C, **Ni H#**. Calcium-directed feedback control of the sinoatrial node robustness. ***Biophysical Journal***. 2023. 122(9):1571-1573. 10.1016/j.bpj.2023.03.040
 
 1.	Ding Y, Lang D, Yan J, Bu H, Li H, Jiao K, Yang J, **Ni H**, Morotti S, Le T, Clark KJ, Port J, Ekker SC, Cao H, Zhang Y, Wang J, Grandi E, Li Z, Shi Y, Li Y, Glukhov AV, Xu X. A phenotype-based forward genetic screen identifies Dnajb6 as a sick sinus syndrome gene. ***Elife***. 2022 Oct 18;11:e77327. 
 
