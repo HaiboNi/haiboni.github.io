@@ -13,6 +13,15 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0003-0083-4286), [Googl
 ---
 ### Most recent conference abtracts
 
+##### 2024
+* **H Ni**, N Khorasani, Y Wu, S Morotti, D Dobrev, E Grandi. Computational modeling identifies increased background Ca2+ influx as a potential promoter of arrhythmogenic Ca2+ instability in atrial fibrillation.  Biophysical Journal 123 (3), 384a, 2024
+* NT Herrera, **H Ni**, C Smith, D Dobrev, S Morotti, E Grandi. In silico investigation of sex-specific atrial electrophysiologic mechanisms and arrhythmia vulnerability.  Biophysical Journal 123 (3), 192a, 2024
+* N Khorasani, **H Ni**, D Dobrev, E Grandi. Revealing key mechanisms of atrial fibrillation-associated fibrosis through computational modeling of cardiac fibroblast. Biophysical Journal 123 (3), 278a		2024
+* Y Wu, X Zhang, WE Louch, MA Colman, **H Ni**, E Grandi. Unveiling sex-specific mechanisms of atrial Ca2+ dysregulation and Ca2+-driven arrhythmia via multiscale modeling. 
+Biophysical Journal 123 (3), 383a, 2024
+* R Shetty, S Morotti, V Sobota, JD Bayer, **H Ni**, E Grandi. Translating electrocardiogram features across sexes. Biophysical Journal 123 (3), 458a. 2024
+
+#####  2023
 *	**H Ni**, X Zhang, Y Wu, D Lang, S Morotti, AV. Glukhov, E Grandi. 3D spatial modeling of sinoatrial node cells reveals a critical role of subcellular ryanodine receptor distribution in pacemaker automaticity. Biophysical Society 67th Annual Meeting, February 18-22, 2023  
 
 *	X Zhang, Y Wu, C Smith, S Morotti, E Grandi, **H Ni**. Modeling sex differences in human atrial myocyte structural and ca2+ handling properties: impact on ca2+-driven arrhythmia. Biophysical Society 67th Annual Meeting, February 18-22, 2023 
