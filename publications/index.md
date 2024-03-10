@@ -30,7 +30,8 @@ Biophysical Journal 123 (3), 383a, 2024
 ---
 ### Preprints
 
-* Tba
+* Zhang X*, Wu Y*, Smith C, Louch WE, Morotti S, Dobrev D, Grandi E#, **Ni H#**. Enhanced Ca2+-Driven Arrhythmias in Female Patients with Atrial Fibrillation: Insights from Computational Modeling. bioRxiv.  2024. doi:10.1101/2024.03.04.583217
+
 
 ---
 ### Peer-reviewed Journal Articles
