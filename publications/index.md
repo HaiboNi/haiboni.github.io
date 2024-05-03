@@ -31,6 +31,8 @@ Biophysical Journal 123 (3), 383a, 2024
 ### Preprints
 
 * Zhang X*, Wu Y*, Smith C, Louch WE, Morotti S, Dobrev D, Grandi E#, **Ni H#**. Enhanced Ca2+-Driven Arrhythmias in Female Patients with Atrial Fibrillation: Insights from Computational Modeling. bioRxiv.  2024. doi:10.1101/2024.03.04.583217
+* Di Lang, Haibo Ni, Roman Y. Medvedev, Fang Liu, Claudia P. Alvarez-Baron, Leonid Tyan, Daniel G.P. Turner, Aleah Warden,  Stefano Morotti, Thomas A. Schrauth, Christian Rickert, Catherine Proenza, Baron Chanda,  Timothy J. Kamp, Gail A. Robertson, Eleonora Grandi,  Alexey V. Glukhov. Caveolar Compartmentalization is Required for Stable Rhythmicity of Sinus Nodal Cells and is Disrupted in Heart Failure. bioRxiv. 2024. https://doi.org/10.1101/2024.04.14.589457
+
 
 
 ---
