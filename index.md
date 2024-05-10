@@ -49,7 +49,7 @@ My research aims to develop **computational systems frameworks** and personalize
 
 <h3> News </h3>
 <ul>
-  {% for post in site.posts limit: 6 %}
+  {% for post in site.posts limit: 7 %}
     <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
   {% endfor %}
 </ul>

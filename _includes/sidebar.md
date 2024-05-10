@@ -6,7 +6,7 @@
 
 <h3> News </h3>
 <ul>
-  {% for post in site.posts limit: 5 %}
+  {% for post in site.posts limit: 7 %}
     <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
   {% endfor %}
 </ul>
