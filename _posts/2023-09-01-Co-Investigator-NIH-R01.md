@@ -6,7 +6,7 @@ group: news
 ---
 
 {: .postsfont}
-**Sep. 2023.** New NIH R01 with MPI (Eckhardt and Grandi) has been awarded. Haibo will contribute to the project as a Co-investigator. Congrats to the team!    <!--more--> 
+**Sep. 2023.** New NIH R01 with MPI (Eckhardt and Grandi) has been awarded. Haibo will contribute to the project as a Co-investigator (50% effort). Congrats to the team!    <!--more--> 
 
 **Title**: Multiomic and Functional Analysis of PVC-Driven Idiopathic VF Predicts New Druggable Targets  
 
