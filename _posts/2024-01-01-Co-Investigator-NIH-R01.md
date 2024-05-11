@@ -6,7 +6,7 @@ group: news
 ---
 
 {: .postsfont}
-**Jan. 2024.** New NIH R01 with PI (Glukhov) has received notice of award. Haibo will contribute to the project as a Co-investigator. Congrats to the team!    <!--more--> 
+**Jan. 2024.** New NIH R01 with PI (Glukhov) has received the notice of award. Haibo will participate in the project as a Co-investigator. Congrats to the team!    <!--more--> 
 
 **Title**: Functional Microdomains in the Heart's Pacemaker: A New Dimension of Cardiac Remodeling
 
