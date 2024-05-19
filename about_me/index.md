@@ -25,7 +25,7 @@ email: hbni AT ucdavis dot edu
 
 {: .postsfont}
 I am an Assistant Project Scientist at the Department of Pharmacology at University of California Davis. I took my undergrad and master's degree training in mechanical engineering and manufacturing and then obtained PhD in computational Biological Physics. My research interests involve developing and applying multiscale and multiphysics models of the heart to uncover disease mechanisms and improve theraputics, to achive a level of success and impact of modeling in advancing medicine as in engineering.   
-   I received a postdoctoral fellowship from the American Heart Association, am a guest Associate Editor for *Frontiers in Physiology* and regularly review manuscripts for more than 10 international journals on cardiovascular research and computational biology, and served as a grant reviewer for the American Heart Association Fellowship programs.  
+   I am a recipient of **Career Development Award** and **Postdoctoral Fellowship** from the **American Heart Association** (AHA), and receives grant support from the NIH. Also, I serve as a guest Associate Editor for *Frontiers in Physiology* and regularly review manuscripts for ~ 20 international journals on cardiovascular research and computational biology, and served as a grant reviewer for the American Heart Association Fellowship programs.  
 
 ### Education and training
 
@@ -65,4 +65,5 @@ I reviw manuscripts for the following journals on a regular basis:
 * Cardiovascular Drugs and Therapy
 * Clinical Pharmacology & Therapeutics
 * Scientific Reports
+* iScience
 

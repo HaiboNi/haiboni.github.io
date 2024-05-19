@@ -28,12 +28,13 @@ Biophysical Journal 123 (3), 383a, 2024
 
 
 ---
-### Preprints
+### Preprints and Manuscripts Under Review
 
 * Zhang X*, Wu Y*, Smith C, Louch WE, Morotti S, Dobrev D, Grandi E#, **Ni H#**. Enhanced Ca2+-Driven Arrhythmias in Female Patients with Atrial Fibrillation: Insights from Computational Modeling. bioRxiv.  2024. doi:10.1101/2024.03.04.583217
-* Di Lang, Haibo Ni, Roman Y. Medvedev, Fang Liu, Claudia P. Alvarez-Baron, Leonid Tyan, Daniel G.P. Turner, Aleah Warden,  Stefano Morotti, Thomas A. Schrauth, Christian Rickert, Catherine Proenza, Baron Chanda,  Timothy J. Kamp, Gail A. Robertson, Eleonora Grandi,  Alexey V. Glukhov. Caveolar Compartmentalization is Required for Stable Rhythmicity of Sinus Nodal Cells and is Disrupted in Heart Failure. bioRxiv. 2024. https://doi.org/10.1101/2024.04.14.589457
-
-
+* Lang D, **Ni H**, Liu F, Medvedev R, Turner D, Warden A, Lim E, Morotti S, Rickert C, Lodin R, Proenza C, Kamp T, Robertson G, Grandi E, Glukhov A. Caveolar Compartmentalization is Required for Stable Rhythmicity of Sinus Nodal Cells and is Disrupted in Heart Failure.  bioRxiv. 2024. https://doi.org/10.1101/2024.04.14.589457
+* W Xiang*, L Li*, M Qin*, L Li, H Yu, F Wang, S Ni, A Shen, H Lu, **H Ni#**, Y Wang#. Diminished Nuclear-localized β-adrenergic signaling activates YAP to promote kidney fibrosis in diabetic nephropathy. (In Revision with BJP)
+* CE.R. Smith#, **H Ni**, E Grandi#. Sex Differences in Electrophysiology and Calcium Handling in Atrial Health and Fibrillation. (Invited review article for Annual Review of Physiology)
+* L Reilly, M Josvai, M Kalluri, CL. Anderson, **H Ni**, KM. Orland, D Lang, AV. Glukhov, E Grandi, and L. Eckhardt. Starting at the end to get back to the beginning: a proof-of-concept study to identify cellular arhythmic features of Idiopathic Ventricular Fibrillation from patient-derived iPSC-cardiomyocytes (Under Review)
 
 ---
 ### Peer-reviewed Journal Articles
