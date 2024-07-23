@@ -38,9 +38,9 @@ Biophysical Journal 123 (3), 383a, 2024
 ### Peer-reviewed Journal Articles
 
 
-1. * W Xiang*, L Li*, M Qin*, L Li, H Yu, F Wang, S Ni, A Shen, H Lu, **H Ni#**, Y Wang#. Diminished Nuclear-localized β-adrenergic signaling activates YAP to promote kidney fibrosis in diabetic nephropathy. (Conditionally accepted by BJP).
+1. W Xiang*, L Li*, M Qin*, L Li, H Yu, F Wang, S Ni, A Shen, H Lu, **H Ni#**, Y Wang#. Diminished Nuclear-localized β-adrenergic signaling activates YAP to promote kidney fibrosis in diabetic nephropathy. (Conditionally accepted by BJP).
 
-1. * CE.R. Smith#, **H Ni**, E Grandi#. Sex Differences in Electrophysiology and Calcium Handling in Atrial Health and Fibrillation. (Invited review article for Annual Review of Physiology, *Accepted*)
+1. CE.R. Smith#, **H Ni**, E Grandi#. Sex Differences in Electrophysiology and Calcium Handling in Atrial Health and Fibrillation. (Invited review article for Annual Review of Physiology, *Accepted*)
 
 
 1.	Hellgren KT, **Ni H**, Morotti S, Grandi E. Predictive male-to-female translation of cardiac electrophysiological response to drugs. ***JACC: Clinical Electrophysiology***. 2023. In press. 
