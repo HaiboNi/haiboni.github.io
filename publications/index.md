@@ -30,14 +30,17 @@ Biophysical Journal 123 (3), 383a, 2024
 ---
 ### Preprints and Manuscripts Under Review
 
-* Zhang X*, Wu Y*, Smith C, Louch WE, Morotti S, Dobrev D, Grandi E#, **Ni H#**. Enhanced Ca2+-Driven Arrhythmias in Female Patients with Atrial Fibrillation: Insights from Computational Modeling. bioRxiv.  2024. doi:10.1101/2024.03.04.583217
+* Zhang X*, Wu Y*, Smith C, Louch WE, Morotti S, Dobrev D, Grandi E#, **Ni H#**. Enhanced Ca2+-Driven Arrhythmias in Female Patients with Atrial Fibrillation: Insights from Computational Modeling. bioRxiv.  2024. doi:10.1101/2024.03.04.583217 (*In revision*)
 * Lang D, **Ni H**, Liu F, Medvedev R, Turner D, Warden A, Lim E, Morotti S, Rickert C, Lodin R, Proenza C, Kamp T, Robertson G, Grandi E, Glukhov A. Caveolar Compartmentalization is Required for Stable Rhythmicity of Sinus Nodal Cells and is Disrupted in Heart Failure.  bioRxiv. 2024. https://doi.org/10.1101/2024.04.14.589457
-* W Xiang*, L Li*, M Qin*, L Li, H Yu, F Wang, S Ni, A Shen, H Lu, **H Ni#**, Y Wang#. Diminished Nuclear-localized β-adrenergic signaling activates YAP to promote kidney fibrosis in diabetic nephropathy. (In Revision with BJP)
-* CE.R. Smith#, **H Ni**, E Grandi#. Sex Differences in Electrophysiology and Calcium Handling in Atrial Health and Fibrillation. (Invited review article for Annual Review of Physiology)
 * L Reilly, M Josvai, M Kalluri, CL. Anderson, **H Ni**, KM. Orland, D Lang, AV. Glukhov, E Grandi, and L. Eckhardt. Starting at the end to get back to the beginning: a proof-of-concept study to identify cellular arhythmic features of Idiopathic Ventricular Fibrillation from patient-derived iPSC-cardiomyocytes (Under Review)
 
 ---
 ### Peer-reviewed Journal Articles
+
+
+1. * W Xiang*, L Li*, M Qin*, L Li, H Yu, F Wang, S Ni, A Shen, H Lu, **H Ni#**, Y Wang#. Diminished Nuclear-localized β-adrenergic signaling activates YAP to promote kidney fibrosis in diabetic nephropathy. (Conditionally accepted by BJP).
+
+1. * CE.R. Smith#, **H Ni**, E Grandi#. Sex Differences in Electrophysiology and Calcium Handling in Atrial Health and Fibrillation. (Invited review article for Annual Review of Physiology, *Accepted*)
 
 
 1.	Hellgren KT, **Ni H**, Morotti S, Grandi E. Predictive male-to-female translation of cardiac electrophysiological response to drugs. ***JACC: Clinical Electrophysiology***. 2023. In press. 
