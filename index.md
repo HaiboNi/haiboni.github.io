@@ -6,7 +6,7 @@ group: home
 
 
 
-<!-- # Welcome to the Wang Lab -->
+<!-- # Welcome to the Ni Lab -->
 
 
 
@@ -15,17 +15,22 @@ group: home
 <img class="img-fluid" src="/docs/members/HNi_reduce.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >  
 <!-- <div> -->
 **Haibo Ni**, Ph.D.    
-*Assistant Project Scientist*   
-Department of Pharmacology  
-School of Medicine  
-University of California, Davis
+*Associate Professor*   
+Medical School  
+Nanjing University  
+China  
 {: .small_font}
 <!-- </div> -->
 </div>
 
 
 {: .postsfont}
-Welcome to my webpage. I am an Assistant Project Scientist at the Department of Pharmacology at University of California Davis. My research interests involve developing and applying multiscale and multiphysics models of the heart to uncover disease mechanisms and improve therapeutics. 
+Welcome to my webpage. I am currently an Associate Professor with the Medical School of Nanjing University, China. My research focuses on integration of multiscale and multiphysics computational models and deep learning approaches to uncover disease mechanisms and improve therapeutics for cardiovascular diseases. 
+
+
+{: .postsfont}
+长期招聘助理研究员、博士后、科研助理，招收博士或硕士研究生、访问学生、本科生等。诚挚欢迎对信息与医学交叉、数字医学、心血管疾病、人工智能等相关领域感兴趣的青年才俊加入，共创数字孪生驱动的精准医学新模式。
+
 
 {: .postsfont}
 The function of the heart as a robust blood pump is critically dependent on the rhythmic and coordinated electrical activation of the myocardium and the subsequent contraction through a process termed excitation-contraction (EC) coupling. Disruption of the normal activation rhythm or sequence, i.e. **cardiac arrhythmia**, is associated with numerous cardiovascular diseases, increases morbidity and mortality, and can lead to sudden cardiac death by causing ventricular dysfunction.
