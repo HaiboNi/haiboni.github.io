@@ -68,11 +68,11 @@ My research aims to develop **computational systems frameworks** and personalize
 ### Contact
 
 **Haibo Ni**, Ph.D.    
-Assistant Project Scientist   
-Department of Pharmacology  
-School of Medicine  
-University of California, Davis  
-email: hbni AT ucdavis dot edu
+Associate Professor    
+Medical School  
+Nanjing University   
+China  
+email: hni AT nju.edu.cn
 </div>
 
 
