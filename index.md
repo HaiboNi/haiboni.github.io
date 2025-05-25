@@ -33,7 +33,7 @@ Welcome to my webpage. I am currently an Associate Professor with the Medical Sc
 
 
 {: .postsfont}
-### 重点招聘招生领域：
+### 重点招聘招生领域（博士后、博士、硕士、科研助理），也可推荐至附属鼓楼医院：
 一、专业方向：计算机、电子信息、生物医学工程等医工交叉学科专业方向。在心脏数字孪生、复杂器官系统与疾病数字建模、深度学习驱动复杂系统模型代理、基于深度学习的因果推理、或虚拟现实技术等相关领域有相关经验者优先。   
 二、AI分析数字孪生构建技术人员岗位：  
 1.深度学习代理模型（Surrogate Model）开发；  
