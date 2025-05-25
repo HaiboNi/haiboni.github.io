@@ -33,6 +33,20 @@ Welcome to my webpage. I am currently an Associate Professor with the Medical Sc
 
 
 {: .postsfont}
+### 重点招聘招生领域：
+*** 一、专业方向：计算机、电子信息、生物医学工程等医工交叉学科专业方向。在心脏数字孪生、复杂器官系统与疾病数字建模、深度学习驱动复杂系统模型代理、基于深度学习的因果推理、或虚拟现实技术等相关领域有相关经验者优先。   
+*** 二、AI分析数字孪生构建技术人员岗位：  
+1.深度学习代理模型（Surrogate Model）开发；  
+2.基于深度学习的因果推理方法解析复杂多器官互作机制；  
+3.跨学科协作；  
+*** 三、多器官数字孪生建模技术人员岗位：  
+1.心脏数字孪生模型开发；   
+2.高性能计算与算法实现；   
+3.多器官模型集成与验证，跨学科协作；   
+Contact: hni@nju.edu.cn
+
+
+{: .postsfont}
 The function of the heart as a robust blood pump is critically dependent on the rhythmic and coordinated electrical activation of the myocardium and the subsequent contraction through a process termed excitation-contraction (EC) coupling. Disruption of the normal activation rhythm or sequence, i.e. **cardiac arrhythmia**, is associated with numerous cardiovascular diseases, increases morbidity and mortality, and can lead to sudden cardiac death by causing ventricular dysfunction.
 
 {: .postsfont}
