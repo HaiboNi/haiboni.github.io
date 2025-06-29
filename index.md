@@ -32,6 +32,9 @@ Welcome to my webpage. I am currently an Associate Professor with the Medical Sc
 长期招聘助理研究员、博士后、科研助理，招收博士或硕士研究生、访问学生、本科生等。诚挚欢迎对信息与医学交叉、数字医学、心血管疾病、人工智能等相关领域感兴趣的青年才俊加入，共创数字孪生驱动的精准医学新模式。
 
 
+
+<img class="img-fluid" src="/WeAreRcruiting.png" alt="Trulli" HSPACE="0" VSPACE="10" >  
+
 {: .postsfont}
 ### 重点招聘招生领域（博士后、博士、硕士、科研助理），也可推荐至附属鼓楼医院：
 一、专业方向：计算机、电子信息、生物医学工程等医工交叉学科专业方向。在心脏数字孪生、复杂器官系统与疾病数字建模、深度学习驱动复杂系统模型代理、基于深度学习的因果推理、或虚拟现实技术等相关领域有相关经验者优先。   
