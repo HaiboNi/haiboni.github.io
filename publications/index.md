@@ -35,19 +35,26 @@ Biophysical Journal 123 (3), 383a, 2024
 ---
 ### Peer-reviewed Journal Articles
 
-1. Zhang X*, Wu Y*, Smith C, Louch WE, Morotti S, Dobrev D, Grandi E#, **Ni H#**. Enhanced Ca2+-Driven Arrhythmias in Female Patients with Atrial Fibrillation: Insights from Computational Modeling. bioRxiv.  2024. doi:10.1101/2024.03.04.583217 (In press in JACC-EP)
+1. Lang D\*, **Ni H**\*, Medvedev RY, Liu F, Alvarez-Baron CP, Tyan L, Turner DG, Warden A, Morotti S, Schrauth TA, Chanda B, Kamp TJ, Robertson GA, Grandi E, Glukhov AV. Caveolar compartmentalization of pacemaker signaling ensures stable sinoatrial rhythmicity which is disrupted in heart failure. ***JACC: Clinical Electrophysiology***. 2026. Online ahead of print. doi:10.1016/j.jacep.2026.01.003 [\*Co-first author]
 
-1. L Reilly, M Josvai, M Kalluri, CL. Anderson, **H Ni**, KM. Orland, D Lang, AV. Glukhov, E Grandi, and L. Eckhardt. Starting at the end to get back to the beginning: a proof-of-concept study to identify cellular arhythmic features of Idiopathic Ventricular Fibrillation from patient-derived iPSC-cardiomyocytes (In press in JACC-EP)
+1. Herrera NT, **Ni H**, Smith CER, Wu Y, Dobrev D, Morotti S, Grandi E. Mechanistic insights into sex differences in atrial electrophysiology and arrhythmia vulnerability through sex-specific computational models. ***The Journal of Physiology***. 2025. doi:10.1113/JP289425
+
+1. Shetty R, Morotti S, Sobota V, Bayer JD, **Ni H**, Grandi E. Development and Clinical Validation of a Cross-Sex Translator of ECG Drug Responses. ***JACC: Clinical Electrophysiology***. 2025;11(9):2014-2027. doi:10.1016/j.jacep.2025.05.015
+
+1. Doherty I, Shetty R, **Ni H**, Morotti S, Grandi E. Exploring the mechanisms of sex-specific proarrhythmia in long QT syndrome through computational modeling. ***American Journal of Physiology - Heart & Circulatory Physiology***. 2025;328(4):H963-H972. doi:10.1152/ajpheart.00792.2024
+
+1. Smith CER, **Ni H**, Grandi E. Sex Differences in Electrophysiology and Calcium Handling in Atrial Health and Fibrillation. ***Annual Review of Physiology***. 2025;87:1-24. doi:10.1146/annurev-physiol-022724-104938
+
+1. Zhang X\*, Wu Y\*, Smith CER, Louch WE, Morotti S, Dobrev D, Grandi E#, **Ni H#**. Enhanced Ca2+-Driven Arrhythmogenic Events in Female Patients With Atrial Fibrillation: Insights From Computational Modeling. ***JACC: Clinical Electrophysiology***. 2024;10(11):2371-2391. doi:10.1016/j.jacep.2024.07.020 [\*Co-first author]
+
+1. Reilly L, Josvai M, Kalluri M, Anderson CL, **Ni H**, Orland KM, Lang D, Glukhov AV, Grandi E, Eckhardt LL. Modeling Idiopathic Ventricular Fibrillation Using iPSC Cardiomyocytes and Computational Approaches: A Proof-of-Concept Study. ***JACC: Clinical Electrophysiology***. 2024;10(12):2628-2632. doi:10.1016/j.jacep.2024.07.014
 
 
-1. W Xiang*, L Li*, M Qin*, L Li, H Yu, F Wang, S Ni, A Shen, H Lu, **H Ni#**, Y Wang#. Diminished Nuclear-localized β-adrenergic signaling activates YAP to promote kidney fibrosis in diabetic nephropathy. (Conditionally accepted).
+1. Xiang W, Li L, Qin M, Li L, Yu H, Wang F, Ni S, Shen A, Lu H, **Ni H#**, Wang Y#. Diminished nuclear-localized β-adrenergic signaling activates YAP to promote kidney fibrosis in diabetic nephropathy. ***British Journal of Pharmacology***. 2024 Oct 2. doi:10.1111/bph.17347
 
-1. CE.R. Smith#, **H Ni**, E Grandi#. Sex Differences in Electrophysiology and Calcium Handling in Atrial Health and Fibrillation. (Invited review article for Annual Review of Physiology, *Accepted*)
+1.	Hellgren KT, **Ni H**, Morotti S, Grandi E. Predictive male-to-female translation of cardiac electrophysiological response to drugs. ***JACC: Clinical Electrophysiology***. 2023;9(12):2642-2648. doi:10.1016/j.jacep.2023.08.016
 
-
-1.	Hellgren KT, **Ni H**, Morotti S, Grandi E. Predictive male-to-female translation of cardiac electrophysiological response to drugs. ***JACC: Clinical Electrophysiology***. 2023. In press. 
-
-1. Herrera N, Zhang X, **Ni H**, Maleckar M, Heijman J, Dobrev D, Grandi E, Morotti S. Dual effects of the small-conductance Ca2+-activated K+ current on human atrial electrophysiology and Ca2+-driven arrhythmogenesis: an in silico study. ***American Journal of Physiology - Heart & Circulatory Physiology***. 2023. *In press* 
+1. Herrera N, Zhang X, **Ni H**, Maleckar M, Heijman J, Dobrev D, Grandi E, Morotti S. Dual effects of the small-conductance Ca2+-activated K+ current on human atrial electrophysiology and Ca2+-driven arrhythmogenesis: an in silico study. ***American Journal of Physiology - Heart & Circulatory Physiology***. 2023;325(4):H896-H908. doi:10.1152/ajpheart.00362.2023
 
 1.	Bai J, Zhao J, **Ni H**, Yin D. Editorial: Diagnosis, monitoring, and treatment of heart rhythm: new insights and novel computational methods. ***Front. Physiol.***, August 2023. 10.3389/fphys.2023.1272377
 
@@ -55,7 +62,7 @@ Biophysical Journal 123 (3), 383a, 2024
 
 1.	Kervadec A, Kezos J, **Ni H**, Yu M, Spiering S, Kannan S, Andersen P, Grandi E, Ocorr K, Colas AR. Multiplatform Modeling of Atrial Fibrillation Identifies Phospholamban as Central Regulator of Cardiac Rhythm. ***Disease Models & Mechanisms***. 2023. 049962. 
 
-1. Bartolucci C, **Ni H#**. Calcium-directed feedback control of the sinoatrial node robustness. ***Biophysical Journal***. 2023. 122(9):1571-1573. 10.1016/j.bpj.2023.03.040
+1. Bartolucci C, **Ni H**. Calcium-directed feedback control of the sinoatrial node robustness. ***Biophysical Journal***. 2023. 122(9):1571-1573. 10.1016/j.bpj.2023.03.040
 
 1.	Ding Y, Lang D, Yan J, Bu H, Li H, Jiao K, Yang J, **Ni H**, Morotti S, Le T, Clark KJ, Port J, Ekker SC, Cao H, Zhang Y, Wang J, Grandi E, Li Z, Shi Y, Li Y, Glukhov AV, Xu X. A phenotype-based forward genetic screen identifies Dnajb6 as a sick sinus syndrome gene. ***Elife***. 2022 Oct 18;11:e77327. 
 
@@ -113,8 +120,3 @@ Biophysical Journal 123 (3), 383a, 2024
 
 28.	Chen M, **Ni H**, Wang Z, Jiang Y. Research on the modelling of burr formation process in micro-ball end milling operation on Ti–6Al–4V. ***The International Journal of Advanced Manufacturing Technology.*** 2012;62(9-12):901–12. 
 {: reversed="reversed"}
-
-
-
-
-

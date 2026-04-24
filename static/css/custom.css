@@ -223,3 +223,135 @@ body {
   }
 }
 */
+
+/* ------------------------------------------------------------------
+   Site polish — typography, links, sidebar cards, small niceties.
+   Scoped so navbar / Bootstrap component styles are left alone.
+   ------------------------------------------------------------------ */
+
+/* Global typography — apply the light Helvetica stack to the body
+   (previously only defined on a .body *class*, which was never used). */
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+                 Helvetica, Arial, "Lucida Grande", sans-serif;
+    color: #222;
+    line-height: 1.55;
+}
+
+/* Slightly calmer headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #1a2230;
+    font-weight: 600;
+    line-height: 1.25;
+    margin-top: 1.4em;
+    margin-bottom: 0.6em;
+}
+h1 { margin-top: 0.6em; }
+h2 { border-bottom: 1px solid #e5e5ea; padding-bottom: 0.25em; }
+
+/* Muted, academic link color for *content* links.
+   Bootstrap navbar rules win for .nav-link / .navbar-brand by specificity,
+   and we exclude them here so hover-underline doesn't bleed into the nav. */
+a:not(.nav-link):not(.navbar-brand):not(.read-more-trigger) {
+    color: #2a5d84;
+    text-decoration: none;
+}
+a:not(.nav-link):not(.navbar-brand):not(.read-more-trigger):visited {
+    color: #5a3e7a;
+}
+a:not(.nav-link):not(.navbar-brand):not(.read-more-trigger):hover,
+a:not(.nav-link):not(.navbar-brand):not(.read-more-trigger):focus {
+    color: #17405e;
+    text-decoration: underline;
+}
+
+/* Match the old "Read More" toggle to the new palette. */
+.read-more-trigger {
+    color: #2a5d84;
+}
+
+/* Images never overflow their column. */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Horizontal rules slightly softer than Bootstrap's. */
+hr {
+    border: 0;
+    border-top: 1px solid #e5e5ea;
+    margin: 1.75em 0;
+}
+
+/* Blockquotes for pull-quotes / subtitles. */
+blockquote {
+    border-left: 3px solid #c3d1de;
+    padding: 0.25em 0 0.25em 1em;
+    color: #555;
+    margin: 1em 0;
+}
+
+/* ---- Sidebar cards (used in _includes/sidebar_cards.html) ---- */
+.sidebar-card {
+    border: 1px solid #e5e5ea;
+    border-radius: 8px;
+    padding: 18px 20px;
+    margin-bottom: 20px;
+    background: #f7f7f9;
+}
+.sidebar-card h4 {
+    margin-top: 0;
+    font-size: 1.05rem;
+    border-bottom: 1px solid #e5e5ea;
+    padding-bottom: 8px;
+}
+.sidebar-card ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.sidebar-card li {
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+}
+.sidebar-card li:last-child {
+    border-bottom: 0;
+}
+.sidebar-card li a {
+    font-weight: 500;
+}
+.sidebar-card .meta {
+    color: #888;
+    font-size: 0.85em;
+}
+.sidebar-card .card-footer-link {
+    margin-top: 10px;
+    text-align: right;
+    font-size: 0.9em;
+}
+.sidebar-card--accent {
+    background: #eef4fb;
+    border-color: #cfe0f1;
+}
+.sidebar-card--accent h4 {
+    border-bottom-color: #cfe0f1;
+}
+
+/* Nicer navbar hover: a subtle lightened bar on the active / hovered tab. */
+.navbar-dark .navbar-nav .nav-link {
+    transition: color 0.15s ease, background-color 0.15s ease;
+    border-radius: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-item.active .nav-link {
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+/* Footer: a touch lighter. */
+#footer .credit,
+.credit {
+    color: #888;
+    font-size: 0.9em;
+}

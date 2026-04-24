@@ -18,12 +18,12 @@
 
 ### Contact
 
- Haibo Ni Ph.D.    
-Assistant Project Scientist   
-Department of Pharmacology  
-School of Medicine  
-University of California, Davis  
-email: hbni AT ucdavis dot edu
+ Haibo Ni, Ph.D.    
+Associate Professor   
+Medical School  
+Nanjing University  
+China  
+email: hni AT nju.edu.cn
 </div>
 
 

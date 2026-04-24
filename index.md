@@ -6,13 +6,13 @@ group: home
 
 
 
-<!-- # Welcome to the Ni Lab -->
+<!-- # Welcome to the Digital Heart Research Group -->
 
 
 
 
-<div style="display:inline-block;vertical-align:top;float:left;padding-right:1.25em">
-<img class="img-fluid" src="/docs/members/HNi_reduce.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >  
+<div class="home-profile-blurb" style="display:inline-block;vertical-align:top;float:left;padding-right:1.25em">
+<img class="img-fluid home-profile-image" src="/docs/members/HNi_reduce.jpg" alt="Portrait of Haibo Ni" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >  
 <!-- <div> -->
 **Haibo Ni**, Ph.D.    
 *Associate Professor*   
@@ -25,7 +25,7 @@ China
 
 
 {: .postsfont}
-Welcome to my webpage. I am currently an Associate Professor with the Medical School of Nanjing University, China. My research focuses on integration of multiscale and multiphysics computational models and deep learning approaches to uncover disease mechanisms and improve therapeutics for cardiovascular diseases. 
+Welcome to my webpage. I am an Associate Professor at the Medical School of Nanjing University, China. My research integrates multiscale and multiphysics computational modeling with deep learning to uncover cardiovascular disease mechanisms and improve therapeutic strategies.
 
 
 {: .postsfont}
@@ -33,7 +33,7 @@ Welcome to my webpage. I am currently an Associate Professor with the Medical Sc
 
 
 
-<img class="img-fluid" src="/WeAreRcruiting.png" alt="Trulli" HSPACE="0" VSPACE="10" >  
+<img class="img-fluid home-recruiting-image" src="/WeAreRcruiting.png" alt="Recruiting banner" HSPACE="0" VSPACE="10" >  
 
 {: .postsfont}
 ### 重点招聘招生领域（博士后、博士、硕士、科研助理），也可推荐至附属鼓楼医院：
@@ -50,10 +50,10 @@ Contact: hni@nju.edu.cn
 
 
 {: .postsfont}
-The function of the heart as a robust blood pump is critically dependent on the rhythmic and coordinated electrical activation of the myocardium and the subsequent contraction through a process termed excitation-contraction (EC) coupling. Disruption of the normal activation rhythm or sequence, i.e. **cardiac arrhythmia**, is associated with numerous cardiovascular diseases, increases morbidity and mortality, and can lead to sudden cardiac death by causing ventricular dysfunction.
+The heart functions as a robust blood pump because electrical activation and contraction remain tightly coordinated through excitation-contraction (EC) coupling. Disruption of this rhythm or activation sequence, i.e. **cardiac arrhythmia**, contributes to major cardiovascular diseases, increases morbidity and mortality, and can lead to sudden cardiac death.
 
 {: .postsfont}
-My research aims to develop **computational systems frameworks** and personalized simulation pipelines for constructing ‘digital twins’ of humans to transform clinical therapeutic strategies for diseases. My studies developed multi-scale and multi-physics computational modeling platforms of the heart incorporating biophysically accurate and anatomically realistic features to dissect cardiac arrhythmia mechanisms and perform high-throughput screening of therapeutics. The computational models are built on experimental data describing cardiac electrophysiological properties to construct biophysically detailed cellular models; CT/MRI imaging data are integrated with the cellular models to construct anatomically accurate heart models to study electrical and mechanical functions of the heart. Our quantitative frameworks are applied to decipher cardiac arrhythmia mechanisms, and explore new frontiers of clinical treatment, including high-throughput screening of anti-arrhythmic drugs and determining drugs cardiotoxicities. Our ‘digital twins’ of human heart also facilitate virtual clinical trials and patient-specific therapeutic (e.g., catheter ablation) planning.  
+My research develops **computational systems frameworks** and personalized simulation pipelines for building human cardiac ‘digital twins’ that can inform therapy. We combine biophysically detailed cellular models with anatomically realistic whole-heart reconstructions derived from experimental and CT/MRI data to study electrical and mechanical function across scales. These quantitative platforms are used to dissect arrhythmia mechanisms, evaluate anti-arrhythmic interventions, assess cardiotoxicity, and support virtual trials and patient-specific therapeutic planning such as catheter ablation.  
 
 
 
@@ -64,7 +64,7 @@ My research aims to develop **computational systems frameworks** and personalize
 
 
 
-<div class="row" markdown="1">
+<div class="row home-meta" markdown="1">
 
 
 <div class="col-md-8 col-ms-8">

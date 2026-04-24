@@ -1,39 +1,81 @@
-# ywanglab.github.io
-====================
+# haiboni.github.io
 
-Technologies this website uses:  
+Website for the **Digital Heart Research Group** (Haibo Ni) — part of the Engineering Medicine Research Group at the Medical School of Nanjing University.
 
-    Jekyll  
-    Github Pages  
-    Twitter Bootstrap 4.4.1
+## Tech stack
 
+- Jekyll (via the `github-pages` gem)
+- Twitter Bootstrap 4.4.1
+- Hosted on GitHub Pages
 
-    background color: #1b2530;
-Before pushing changes, please check that they will work on your system first with the plugins included in the Gemfile using the bundler tool (results served at [0.0.0.0:4000](0.0.0.0:4000)):
+## Local development
 
-    sudo gem install bundler
-    bundle install
-    bundle exec jekyll serve --port 1234
+```bash
+# In this directory
+./build.sh
+./run.sh                    # serves on port 1234
+```
 
-    And go to http://localhost:1234/
+Site will be served at <http://localhost:1234/>.
 
+The repo vendors its working Jekyll bundle under `.bundle/vendor`, and the helper scripts pin Bundler and gem paths to repo-local folders. Future runs should not need `bundle install` unless dependencies change.
 
-    Header & Footer for all pages: ./_includes/header.html ./_includes/footer.html 
-    Configurations: ./_config.yml
-    Navigation Links: ./_data/navlinks.yml
-    Home: ./index.md; sidebar included from ./_includes/sidebar.md
-    Research: ./research/index.md
-    Publications: ./publications/index.md
-    Members: ./members/index.html, script automatically loops through posts in ./_members with a _template.md
-    News: ./news/index.html; the script automatically loops through posts in ./_posts
-    Join: ./join/index.md
-    Contact: ./contact/index.md
-    Twitter side bars in Members and News page: ./_includes/twitter_sidebar.html
-    All images: ./docs/assets/
+## File map
 
-    Custom styles: ./static/css/custom.css
+| Path | Purpose |
+|---|---|
+| `_config.yml` | Site config (collections, plugins, exclude list) |
+| `_data/navlinks.yml` | Top navigation links |
+| `_includes/header.html`, `footer.html` | Page chrome |
+| `_includes/sidebar_cards.html` | Right-column cards (Latest News, Join Us) on members / about / news |
+| `_layouts/` | Page templates (`home`, `default`, `post`, `postlist`, `members`, `about_me`, ...) |
+| `index.md` | Home page |
+| `about_me/index.md` | About the PI |
+| `mission/index.md` | Group mission |
+| `research/index.md` | Research themes |
+| `publications/`, `_publications/` | Publications page + entries |
+| `members/index.html`, `_members/` | Members page; one file per person (use `_members/_template.md`) |
+| `news/`, `_posts/` | News listing; one file per post (`YYYY-MM-DD-slug.md`) |
+| `join/index.md` | Recruiting page (bilingual) |
+| `contact/index.md` | Contact page |
+| `static/`, `docs/` | CSS, JS, images |
+| `CNAME` | GitHub Pages custom domain |
 
+## Adding a news post
 
-### Statement
+Create `_posts/YYYY-MM-DD-slug.md`:
 
-This website was created using the template kindly open-sourced by Fraser Lab (https://github.com/fraser-lab/fraser-lab.github.io). Please refer to the Fraser lab for information on license. A copy of the license file is also included in this folder. 
+```markdown
+---
+title: Short headline
+author: Haibo
+layout: post
+group: news
+---
+
+{: .postsfont}
+**Month. Year.** Body of the post.
+
+<!--more-->
+```
+
+Content above `<!--more-->` appears on the listing page.
+
+Use `author: AI` for news posts drafted by the AI assistant. Use `author: Haibo` only for posts written by Haibo.
+
+## Adding a member
+
+Copy `_members/_template.md` to `_members/<LastName>.md` and fill in the frontmatter (name, position, email, image, ORCID, etc.).
+
+## Publication author markers
+
+For `publications/index.md`:
+
+- `*` means co-first / equal contribution
+- `#` means shared senior authorship
+
+Only use these markers when they are explicitly stated in the journal version of record. Do not infer them from preprints, Google Scholar, CVs, or author order.
+
+## Attribution
+
+Originally derived from the template open-sourced by the [Fraser Lab](https://github.com/fraser-lab/fraser-lab.github.io). License included in this folder.

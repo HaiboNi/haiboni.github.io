@@ -1,12 +1,43 @@
 ---
-title: Wang Lab Members
+title: Group Members
 layout: members
 group: members
 ---
 
-<h1>Wang Lab Members</h1>
+<h1>Digital Heart @NJU</h1>
 
-The Wang lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
+<p><em>Part of the <a href="https://emg-nju.github.io/Homepage/">Engineering Medicine Research Group</a>, Medical School of Nanjing University.</em></p>
+
+Our group welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
+
+<style>
+.member-compact {
+  padding: 0.85rem 0 0.95rem;
+}
+
+.member-compact + .member-compact {
+  border-top: 1px solid #e7ebf0;
+}
+
+.member-compact-name {
+  font-size: 1.08rem;
+  margin-bottom: 0.2rem;
+}
+
+.member-compact-meta {
+  color: #4d6072;
+}
+
+.member-compact-meta,
+.member-compact-links {
+  margin-bottom: 0.2rem;
+}
+
+.member-compact-links a {
+  margin-right: 0.7rem;
+  white-space: nowrap;
+}
+</style>
 
 
 
@@ -26,6 +57,53 @@ The Wang lab welcomes people of any race, ethnicity, religion, national origin, 
 {% continue %}
 {% endif %}
 
+{% assign member_display = member.display | default: "full" %}
+
+{% capture member_links %}
+{% if member.website %}
+  <a style="overflow-wrap: break-word;" href="{{member.website}}">Website</a>
+{% endif %}
+{% if member.orcid %}
+  <a href="http://orcid.org/{{member.orcid}}">ORCID</a>
+{% endif %}
+{% if member.linkedin %}
+  <a href="http://www.linkedin.com/in/{{member.linkedin}}">LinkedIn</a>
+{% endif %}
+{% if member.UCSF %}
+  <a href="http://profiles.ucsf.edu/{{member.UCSF}}">Profile</a>
+{% endif %}
+{% if member.scholar %}
+  <a href="http://scholar.google.com/citations?user={{member.scholar}}">Scholar</a>
+{% endif %}
+{% if member.twitter %}
+  <a href="http://twitter.com/{{member.twitter}}">@{{member.twitter}}</a>
+{% endif %}
+{% if member.github %}
+  <a href="http://github.com/{{member.github}}">{{member.github}}</a>
+{% endif %}
+{% endcapture %}
+
+{% if member_display == "compact" %}
+        <div id="{{member.name}}" class="member-compact" style="padding-top: 60px; margin-top: -60px;">
+            <div class="member-compact-name"><strong>{{member.name}}</strong></div>
+            <div class="member-compact-meta">
+                {% if member.pronouns %}
+                  <em>{{member.pronouns}}</em> ·
+                {% endif %}
+                {{member.position | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+            {% if member.email %}
+            <div class="member-compact-meta"><em>{{member.email}}</em></div>
+            {% endif %}
+            {% if member.description %}
+            <div class="member-compact-meta">{{member.description | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+            {% endif %}
+            {% assign compact_links = member_links | strip %}
+            {% if compact_links != "" %}
+            <div class="member-compact-links">{{ compact_links }}</div>
+            {% endif %}
+        </div>
+{% else %}
         <hr>
         <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
         <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
@@ -69,6 +147,7 @@ The Wang lab welcomes people of any race, ethnicity, religion, national origin, 
                 <p class="text-justify">{{member.description | markdownify}}</p>
             </div>
         </div>
+{% endif %}
 {% endfor %}
 
 <hr>

@@ -1,8 +1,7 @@
 {% include header.html %}
 <style>
-    /*this looks better*/
 .hero-image {
-  background-image: linear-gradient(rgba(35,47,62, 0.7), rgba(0.4, 0.4, 0.4, 0.8)), url("/docs/labwebsite_photos/F1.png");
+  background-image: linear-gradient(rgba(24, 42, 58, 0.12), rgba(18, 28, 40, 0.18)), url("/docs/labwebsite_photos/digital_heart_hero_v2.png");
   height: 185px;
   background-position: center;
   background-repeat: no-repeat;
@@ -16,42 +15,90 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white
+  color: #ffffff;
+  text-shadow: 0 2px 8px rgba(6, 16, 26, 0.7);
 }
 
+.hero-text h1 {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  color: #ffffff !important;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  -webkit-text-stroke: 1px rgba(7, 24, 38, 0.35);
+}
 
+.home-shell {
+  max-width: 1040px;
+  margin: 0 auto 44px;
+}
+
+.home-shell p,
+.home-shell li {
+  line-height: 1.65;
+}
+
+.home-profile-blurb {
+  max-width: 240px;
+  margin-bottom: 0.75rem;
+}
+
+.home-profile-image {
+  border-radius: 16px;
+  box-shadow: 0 10px 24px rgba(16, 33, 46, 0.12);
+}
+
+.home-recruiting-image {
+  border-radius: 14px;
+  box-shadow: 0 10px 22px rgba(16, 33, 46, 0.08);
+}
+
+.home-meta {
+  margin-top: 0.5rem;
+}
+
+.home-meta h3 {
+  margin-top: 0.1rem;
+  margin-bottom: 0.75rem;
+}
+
+.home-meta ul {
+  padding-left: 1.15rem;
+}
+
+.home-meta li {
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 767px) {
+  .hero-image {
+    height: 170px;
+  }
+
+  .hero-text h1 {
+    font-size: 2.25rem !important;
+  }
+
+  .home-profile-blurb {
+    float: none !important;
+    display: block !important;
+    max-width: 220px;
+    padding-right: 0 !important;
+    margin: 0 auto 1rem;
+  }
+}
 </style>
 
 <div class="hero-image">
   <div class="hero-text">
-    <h1 style="font-size:50px"><b>Digital Heart</b></h1>
-    </div>
+    <h1 style="font-size:50px; letter-spacing:0.04em;"><b>Digital Heart</b></h1>
+  </div>
 </div>
 
-<!-- <div class="page__hero--overlay" style="background-color: #5e616c; background-image: url('/docs/assets/images/banner.png'); background-size: cover;  height: 185px;padding: 3em 0;">
-    <div class="container max-width:100%">
-        <div class="row">
-                  <div class="col-sm-12 align-self-center"style="text-align:center; ">
-                         <h1 >  
-                            <font style="color:darkblue;background-color:rgba(248,248,255, 0.4);font-size:70px"><b>  T-Ni Lab </b>
-                        </font>
-                          </h1>  
-                    </div>
-        </div>
-    </div>
-</div>
- -->
-
-
-<div class="container max-width: 100%" style="margin-top:20px">
-    
-    <!-- <div class="row"> -->
-        <!-- <div class="col-sm-12"> -->
-    	    <!-- <div class="jumbotron h-100"> -->
-        	    {{ content }}
-            <!-- </div> -->
-        <!-- </div> -->
-
-    <!-- </div> -->
+<div class="container max-width: 100% home-shell" style="margin-top:20px">
+  {{ content }}
 </div>
 {% include footer.html %}

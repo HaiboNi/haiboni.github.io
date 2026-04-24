@@ -6,6 +6,9 @@
   link: "/about_me"
   group: about_me
 
+- name: mission
+  link: "/mission"
+  group: mission
 
 - name: research
   link: "/research"
@@ -15,6 +18,9 @@
   link: "/publications"
   group: publications
 
+- name: members
+  link: "/members"
+  group: members
 
 - name: news
   link: "/news"
