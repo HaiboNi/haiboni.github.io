@@ -1,6 +1,11 @@
 # haiboni.github.io
 
-Website for the **Digital Heart Research Group** (Haibo Ni) — part of the Engineering Medicine Research Group at the Medical School of Nanjing University.
+Website for the **Digital Heart Research Team** (Haibo Ni) — part of the Engineering Medicine Research Group at the Medical School of Nanjing University.
+
+## Recent changes
+
+- `2026-04-26`: added `/openings`, merged mission content into `/research`, added hybrid full/compact members rendering, refined homepage visuals, and updated branding to `Digital Heart Research Team`.
+- Detailed AI-maintained change log: `AI_changelog.md`
 
 ## Tech stack
 
@@ -31,8 +36,9 @@ The repo vendors its working Jekyll bundle under `.bundle/vendor`, and the helpe
 | `_layouts/` | Page templates (`home`, `default`, `post`, `postlist`, `members`, `about_me`, ...) |
 | `index.md` | Home page |
 | `about_me/index.md` | About the PI |
-| `mission/index.md` | Group mission |
-| `research/index.md` | Research themes |
+| `mission/index.md` | Legacy pointer page redirecting readers to `/research` |
+| `research/index.md` | Combined research + mission page |
+| `openings/index.md` | Openings / recruiting page |
 | `publications/`, `_publications/` | Publications page + entries |
 | `members/index.html`, `_members/` | Members page; one file per person (use `_members/_template.md`) |
 | `news/`, `_posts/` | News listing; one file per post (`YYYY-MM-DD-slug.md`) |

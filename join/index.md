@@ -6,7 +6,7 @@ group: join
 
 # Join Us
 
-*The Digital Heart Research Group is part of the [Engineering Medicine Research Group](https://emg-nju.github.io/Homepage/) at the Medical School of Nanjing University.*
+*The Digital Heart Research Team is part of the [Engineering Medicine Research Group](https://emg-nju.github.io/Homepage/) at the Medical School of Nanjing University.*
 
 ## 中文招聘信息
 
@@ -77,4 +77,3 @@ We recruit research assistants and technical staff in two broad areas:
 ## Visiting Students & Undergraduates
 
 We host visiting graduate students and undergraduates interested in short- or medium-term research projects. Please email with your CV, availability, and a brief description of what you would like to learn or contribute.
-

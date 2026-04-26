@@ -31,6 +31,9 @@ Welcome to my webpage. I am an Associate Professor at the Medical School of Nanj
 {: .postsfont}
 长期招聘助理研究员、博士后、科研助理，招收博士或硕士研究生、访问学生、本科生等。诚挚欢迎对信息与医学交叉、数字医学、心血管疾病、人工智能等相关领域感兴趣的青年才俊加入，共创数字孪生驱动的精准医学新模式。
 
+{: .postsfont}
+[查看招聘信息 / View openings](/openings)
+
 
 
 <img class="img-fluid home-recruiting-image" src="/WeAreRcruiting.png" alt="Recruiting banner" HSPACE="0" VSPACE="10" >  

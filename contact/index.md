@@ -25,11 +25,11 @@ China
 
 ### Group
 
-**Digital Heart Research Group**  
+**Digital Heart Research Team**  
 *part of the [Engineering Medicine Research Group](https://emg-nju.github.io/Homepage/)*  
 Medical School, Nanjing University
 
-See our [mission](/mission) and [how to join](/join).
+See our [research mission](/research) and [how to join](/join).
 
 </div>
 

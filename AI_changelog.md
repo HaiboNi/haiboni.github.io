@@ -6,6 +6,53 @@ Newest entries first. When you make a change in a session, append a dated sectio
 
 ---
 
+## 2026-04-26 — Openings page, members flexibility, research/mission merge, visual cleanup
+
+### Navigation and structure
+- Added a new top-level page `openings/index.md` and nav entry in `_data/navlinks.yml`.
+- Later moved `openings` to the end of the nav, after `news`, per user preference.
+- Merged `mission` + `research` into a single `research` tab while keeping the internal page title **Research Mission**.
+- Left `mission/index.md` as a lightweight pointer page to `/research` so old links do not break.
+
+### Openings page
+- Parsed two `.docx` recruitment documents from `documents-export-2026-4-25.zip`.
+- Built a styled Chinese `openings` page with two listings:
+  - `南京大学医学院数字孪生方向招聘`
+  - `南京大学医学院附属鼓楼医院院士团队招聘博士后、科研助理`
+- Removed the separate `合作导师` panels from both listings after review.
+- Expanded the first listing to include `科研助理` and added the note that qualified applicants may compete for a Ph.D. student opportunity.
+- Added a direct homepage link after the Chinese recruitment statement: `查看招聘信息 / View openings`.
+
+### Publications and news
+- Synced recent publications from Google Scholar / journal records into `publications/index.md`.
+- Fixed literal `*` rendering in publication author lists by escaping Markdown where needed so co-first markers show on the live site.
+- Restored `#` shared-senior / co-corresponding marking for the kidney fibrosis paper per user confirmation.
+- Added two AI-authored news posts:
+  - `_posts/2026-04-24-JACC-EP-Editorial.md`
+  - `_posts/2025-06-01-PLOS-Academic-Editor.md`
+- Added an authorship rule in `README.md` and `AI_readme.md`: use `author: AI` for AI-drafted posts.
+
+### Homepage / visuals
+- Added a new digital-heart hero image (`docs/labwebsite_photos/digital_heart_hero_v2.png`) and tested brighter variants.
+- Reverted to the preferred original hero variant and adjusted only presentation.
+- Increased hero height to `255px`.
+- Improved title contrast for `Digital Heart`.
+- Removed the background pill behind the hero title after review.
+- Kept homepage structure stable after rolling back an over-aggressive refactor.
+
+### About / members / shared styling
+- Matched the `about_me` profile photo styling to the homepage by reusing the same classes.
+- Moved profile-image corner radius / shadow styling into shared `static/css/custom.css`.
+- Added rounded-corner styling for full-profile member images via `.member-photo`.
+- Added hybrid support on the members page:
+  - `display: full`
+  - `display: compact`
+  in `_members/*.md`, implemented in `members/index.html`, documented in `_members/_template.md`.
+
+### Naming and wording
+- Renamed visible site branding from **Digital Heart Research Group** to **Digital Heart Research Team** in user-facing and metadata locations.
+- Changed the nav label from `research mission` back to `research` while keeping the page title unchanged.
+
 ## 2026-04-24 — Fork-to-Ni-lab conversion, content updates, style refinement
 
 Starting state: the repo was forked from the Wang-lab (SUSTech) Jekyll template and contained many placeholder and leftover-template strings. Haibo Ni moved to Nanjing University in Feb 2025 and needed the site reflecting his new group.

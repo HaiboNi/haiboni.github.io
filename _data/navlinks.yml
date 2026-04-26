@@ -6,10 +6,6 @@
   link: "/about_me"
   group: about_me
 
-- name: mission
-  link: "/mission"
-  group: mission
-
 - name: research
   link: "/research"
   group: research
@@ -25,6 +21,10 @@
 - name: news
   link: "/news"
   group: news
+
+- name: openings
+  link: "/openings"
+  group: openings
 
 # - name: join
 #   link: "/join"

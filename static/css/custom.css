@@ -59,6 +59,21 @@
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
+.home-profile-blurb {
+  max-width: 240px;
+  margin-bottom: 0.75rem;
+}
+
+.home-profile-image {
+  border-radius: 16px;
+  box-shadow: 0 10px 24px rgba(16, 33, 46, 0.12);
+}
+
+.member-photo {
+  border-radius: 16px;
+  box-shadow: 0 10px 24px rgba(16, 33, 46, 0.12);
+}
+
 
 
 
@@ -148,6 +163,16 @@ p{
   font-weight: normal;
 
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+@media (max-width: 767px) {
+  .home-profile-blurb {
+    float: none !important;
+    display: block !important;
+    max-width: 220px;
+    padding-right: 0 !important;
+    margin: 0 auto 1rem;
+  }
 }
 
 

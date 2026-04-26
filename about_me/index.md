@@ -5,8 +5,8 @@ group: about_me
 ---
 # about me
 
-<div style="display:inline-block;vertical-align:top;float:left;padding-right:1.35em">
-<img class="img-fluid" src="/docs/members/HNi_reduce.jpg" alt="Trulli" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >  
+<div class="home-profile-blurb" style="display:inline-block;vertical-align:top;float:left;padding-right:1.35em">
+<img class="img-fluid home-profile-image" src="/docs/members/HNi_reduce.jpg" alt="Portrait of Haibo Ni" width="220" max-width="50vw" HSPACE="0" VSPACE="5" >  
 <!-- <div> -->
 **Haibo Ni**, Ph.D.    
 *Associate Professor*   
@@ -68,4 +68,3 @@ I review manuscripts for the following journals on a regular basis:
 * Clinical Pharmacology & Therapeutics
 * Scientific Reports
 * iScience
-
