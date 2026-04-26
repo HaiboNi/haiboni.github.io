@@ -103,3 +103,12 @@ Starting state: the repo was forked from the Wang-lab (SUSTech) Jekyll template 
 
 ### Memory saved (for future AIs)
 - `memory/feedback_phrasing.md` — user prefers modest/collaborative group self-description; avoid "lead the X group"; preferred line: "we work on digital hearts as part of the Engineering Medicine Research Group".
+
+## 2026-04-26
+
+### People page update
+- Added current team roster from `实验室成员信息(1).docx` as compact `_members/*.md` entries.
+- Renamed the nav label from `members` to `people` while keeping the URL at `/members`.
+- Reworked `members/index.html` so Haibo remains the featured full profile and the rest of the team appears in grouped compact sections.
+- Grouped team members by seniority (`Postdoc`, `Ph.D. Students`, `Master's Students`, `Research Assistants`, `Visiting Student`, `Undergraduate Students`) and ordered people within each section by join date.
+- Refined the People page copy to emphasize that the team is an integral part of the Engineering Medicine Research Group, supervised by Academician Ning Gu and coordinated by Prof. Haibo Ni.

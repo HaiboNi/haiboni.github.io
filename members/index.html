@@ -1,22 +1,44 @@
 ---
-title: Group Members
+title: People
 layout: members
 group: members
 ---
 
-<h1>Digital Heart @NJU</h1>
+<h1>People</h1>
 
-<p><em>Part of the <a href="https://emg-nju.github.io/Homepage/">Engineering Medicine Research Group</a>, Medical School of Nanjing University.</em></p>
+<p><em>An integral part of the <a href="https://emg-nju.github.io/Homepage/">Engineering Medicine Research Group</a>, Medical School of Nanjing University, our team is directly supervised by Academician Ning Gu and coordinated by Prof. Haibo Ni.</em></p>
 
-Our group welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
+We welcome motivated people from all research, educational, and cultural backgrounds. Our team values curiosity, rigor, openness, and mutual respect, and we believe that diverse perspectives strengthen how we ask questions, build collaborations, and advance digital heart research. We especially welcome trainees and collaborators who are excited to work across disciplines and bring new ideas into medicine, engineering, computation, and AI.<br>
 
 <style>
 .member-compact {
   padding: 0.85rem 0 0.95rem;
 }
 
-.member-compact + .member-compact {
-  border-top: 1px solid #e7ebf0;
+.member-section-title {
+  margin-top: 1.6rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.15rem;
+  color: #18364f;
+}
+
+.member-featured {
+  margin-top: 0.4rem;
+}
+
+.member-featured-meta {
+  font-size: 0.98rem;
+  line-height: 1.55;
+}
+
+.member-featured-name {
+  font-size: 1.08rem;
+}
+
+.member-featured-bio {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #33485a;
 }
 
 .member-compact-name {
@@ -83,7 +105,99 @@ Our group welcomes people of any race, ethnicity, religion, national origin, gen
 {% endif %}
 {% endcapture %}
 
-{% if member_display == "compact" %}
+{% unless member_display == "compact" %}
+        <hr>
+        <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+        <div id = "{{member.name}}" class="row member-featured" style="padding-top: 60px; margin-top: -60px;">
+            <div class="col-sm-4">
+                <img class="img-fluid member-photo" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="300"; height="300"><br>
+                <strong class="member-featured-name">{{member.name}}</strong> <br>
+                {% if member.pronouns %}
+                  <span class="member-featured-meta"><em>{{member.pronouns}}</em></span> <br>
+                {% endif %}
+                <span class="member-featured-meta">{{member.position | markdownify | remove: '<p>' | remove: '</p>' }}</span> <br>
+                <span class="member-featured-meta"><em>{{member.email}}</em></span> <br>
+                {% if member.website %}
+                  <span class="member-featured-meta"><a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a></span> <br>
+                {% endif %}
+                {% if member.orcid %}
+                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/docs/logo/orcid_logo.svg"></a>
+                  <span class="member-featured-meta"><a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a></span> <br>
+                {% endif %}
+                {% if member.linkedin %}
+                  <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/docs/logo/linkedin_logo.svg"></a>
+                  <span class="member-featured-meta"><a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a></span> <br>
+                {% endif %}
+                {% if member.UCSF %}
+                  <a href="http://www.ucsf.edu"><img class="inline-block mem-icon" src="/docs/logo/ucsf_logo_black.svg"></a>
+                  <span class="member-featured-meta"><a href= "http://profiles.ucsf.edu/{{member.UCSF}}"> Profile </a></span> <br>
+                {% endif %}
+                {% if member.scholar %}
+                  <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/docs/logo/gscholar_logo.svg"></a>
+                  <span class="member-featured-meta"><a href= "http://scholar.google.com/citations?user={{member.scholar}}"> Scholar Citations </a></span> <br>
+                {% endif %}
+                {% if member.twitter %}
+                  <a href="http://twitter.com"><img class="inline-block mem-icon" src="/docs/logo/twitter_logo.svg"></a>
+                  <span class="member-featured-meta"><a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a></span> <br>
+                {% endif %}
+                {% if member.github %}
+                  <a href="http://github.com"><img class="inline-bloc mem-icon" src="/docs/logo/github_logo.svg"></a>
+                  <span class="member-featured-meta"><a href= "http://github.com/{{member.github}}"> {{member.github}} </a></span> <br>
+                {% endif %}
+            </div>
+            <div class="col-sm-8">
+                <div class="member-featured-bio text-justify">{{member.description | markdownify}}</div>
+            </div>
+        </div>
+{% endunless %}
+{% endfor %}
+
+{% assign compact_members = site.members | where: "display", "compact" %}
+{% assign member_groups = "Postdoctoral Fellow|Ph.D. Student|Master's Student|Research Assistant|Visiting Student|Undergraduate Student" | split: "|" %}
+{% assign member_group_titles = "Postdoc|Ph.D. Students|Master's Students|Research Assistants|Visiting Student|Undergraduate Students" | split: "|" %}
+
+{% for group_name in member_groups %}
+{% assign loop_index = forloop.index0 %}
+{% assign group_title = member_group_titles[loop_index] %}
+{% assign section_members = compact_members | where: "position", group_name | sort: "startdate" %}
+{% if section_members.size > 0 %}
+<h2 class="member-section-title">{{ group_title }}</h2>
+{% endif %}
+
+{% for member in section_members %}
+
+{% unless member.enddate == empty %}
+{% continue %}
+{% endunless %}
+
+{% if member.position contains "Affiliate" %}
+{% continue %}
+{% endif %}
+
+{% capture member_links %}
+{% if member.website %}
+  <a style="overflow-wrap: break-word;" href="{{member.website}}">Website</a>
+{% endif %}
+{% if member.orcid %}
+  <a href="http://orcid.org/{{member.orcid}}">ORCID</a>
+{% endif %}
+{% if member.linkedin %}
+  <a href="http://www.linkedin.com/in/{{member.linkedin}}">LinkedIn</a>
+{% endif %}
+{% if member.UCSF %}
+  <a href="http://profiles.ucsf.edu/{{member.UCSF}}">Profile</a>
+{% endif %}
+{% if member.scholar %}
+  <a href="http://scholar.google.com/citations?user={{member.scholar}}">Scholar</a>
+{% endif %}
+{% if member.twitter %}
+  <a href="http://twitter.com/{{member.twitter}}">@{{member.twitter}}</a>
+{% endif %}
+{% if member.github %}
+  <a href="http://github.com/{{member.github}}">{{member.github}}</a>
+{% endif %}
+{% endcapture %}
+
         <div id="{{member.name}}" class="member-compact" style="padding-top: 60px; margin-top: -60px;">
             <div class="member-compact-name"><strong>{{member.name}}</strong></div>
             <div class="member-compact-meta">
@@ -103,51 +217,7 @@ Our group welcomes people of any race, ethnicity, religion, national origin, gen
             <div class="member-compact-links">{{ compact_links }}</div>
             {% endif %}
         </div>
-{% else %}
-        <hr>
-        <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
-        <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-            <div class="col-sm-4">
-                <img class="img-fluid member-photo" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
-                <strong>{{member.name}}</strong> <br>
-                {% if member.pronouns %}
-                  <em>{{member.pronouns}}</em> <br>
-                {% endif %}
-                {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
-                <em>{{member.email}}</em> <br>
-                {% if member.website %}
-                  <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
-                {% endif %}
-                {% if member.orcid %}
-                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/docs/logo/orcid_logo.svg"></a>
-                  <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
-                {% endif %}
-                {% if member.linkedin %}
-                  <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/docs/logo/linkedin_logo.svg"></a>
-                  <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
-                {% endif %}
-                {% if member.UCSF %}
-                  <a href="http://www.ucsf.edu"><img class="inline-block mem-icon" src="/docs/logo/ucsf_logo_black.svg"></a>
-                  <a href= "http://profiles.ucsf.edu/{{member.UCSF}}"> Profile </a> <br>
-                {% endif %}
-                {% if member.scholar %}
-                  <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/docs/logo/gscholar_logo.svg"></a>
-                  <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> Scholar Citations </a> <br>
-                {% endif %}
-                {% if member.twitter %}
-                  <a href="http://twitter.com"><img class="inline-block mem-icon" src="/docs/logo/twitter_logo.svg"></a>
-                  <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
-                {% endif %}
-                {% if member.github %}
-                  <a href="http://github.com"><img class="inline-bloc mem-icon" src="/docs/logo/github_logo.svg"></a>
-                  <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
-                {% endif %}
-            </div>
-            <div class="col-sm-8">
-                <p class="text-justify">{{member.description | markdownify}}</p>
-            </div>
-        </div>
-{% endif %}
+{% endfor %}
 {% endfor %}
 
 <hr>

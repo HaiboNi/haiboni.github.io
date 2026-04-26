@@ -7,6 +7,7 @@ image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Role in the group
 display: full # "full" for profile card, "compact" for list-style row
+sort_order: 999 # Optional. Lower numbers appear first on the People page.
 #subsequent:  update once you become an alumnus
 pronouns: they/them/theirs #personal pronouns
 email: username (at) domain.com #Preferred public email address

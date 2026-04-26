@@ -73,6 +73,12 @@ Use `author: AI` for news posts drafted by the AI assistant. Use `author: Haibo`
 
 Copy `_members/_template.md` to `_members/<LastName>.md` and fill in the frontmatter (name, position, email, image, ORCID, etc.).
 
+For the People page:
+- use `display: full` for featured profile cards and `display: compact` for list entries
+- compact entries are grouped by role/seniority on `/members`
+- people within the same role section are ordered by `startdate`
+- `sort_order` is optional metadata for future custom ordering, but the current page logic uses role grouping plus `startdate`
+
 ## Publication author markers
 
 For `publications/index.md`:
