@@ -25,17 +25,28 @@ Our goal is to bring to medicine the level of predictive impact that computation
 ## Research Areas
 
 {: .postsfont}
-Our research integrates mechanistic modeling, multi-scale simulation, machine learning, imaging, and experimental data to advance the following areas:
+Our ongoing research integrates mechanistic modeling, multi-scale simulation, machine learning, imaging, and clinical data across the following areas:
 
-- Constructing biophysically and biochemically detailed digital twins of the human heart
-- Optimizing treatment strategies for heart rhythm disorders via personalized simulations
-- Developing AI-accelerated simulation pipelines, including deep-learning surrogate models and causal-inference methods
-- Building quantitative systems pharmacology platforms integrating iPSC-derived cardiomyocytes, computational modeling, and machine learning for anti-arrhythmic drug screening
-- Dissecting electro-mechanical coupling and feedback in the heart and their contributions to arrhythmia
-- Developing heart-torso models to study ventricular arrhythmias, electrocardiograms (ECGs), and responses to stressors
-- Investigating sex differences in cardiac electrophysiology and arrhythmia
-- Untangling subcellular signaling networks in arrhythmia mechanisms
-- Studying molecular and structural mechanisms of sinus node dysfunction
+- **Digital twins for atrial fibrillation**  
+  Developing patient-specific atrial models to study arrhythmia mechanisms, identify sustaining substrates, and support personalized ablation and rhythm-control strategies.
+
+- **Digital twins for heart failure**  
+  Building multi-scale models of the failing heart to connect remodeling, electrophysiology, mechanics, and clinical phenotypes, with the goal of improving mechanistic understanding and therapeutic planning.
+
+- **Multi-organ digital twins and crosstalk**  
+  Extending cardiac digital twins toward integrated heart-kidney and broader multi-organ systems to study physiological coupling, disease interactions, and treatment response across organs.
+
+- **Digital cells with hybrid AI, LLM-based, and mechanistic ODE-based modeling**  
+  Creating data-informed digital cell models that combine mechanistic ordinary differential equation frameworks with AI components, including LLM-based modeling, to improve calibration, prediction, and biological interpretability.
+
+- **AI-powered digital twin surrogate modeling**  
+  Developing fast surrogate models and reduced-order learning frameworks that accelerate large-scale simulation, uncertainty analysis, and virtual cohort studies while preserving mechanistic fidelity.
+
+- **Medical informatics for cardiovascular disease**  
+  Using structured and unstructured clinical data to study cardiovascular disease, support risk stratification, and connect computational models with real-world patient trajectories.
+
+- **Intelligent medical image processing**  
+  Designing AI-enabled pipelines for cardiac and related medical imaging, including segmentation, reconstruction, quantitative phenotyping, and model-ready image processing for digital twin construction.
 
 ## Approach
 
@@ -56,5 +67,3 @@ We welcome trainees and collaborators from diverse backgrounds, including:
 - Clinical medicine
 
 We recruit at multiple levels, including **postdoctoral fellows, Ph.D. and master's students, research assistants, visiting students, and undergraduates**. For current positions, please see [Openings](/openings).
-
-

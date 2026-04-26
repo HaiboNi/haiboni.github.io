@@ -112,3 +112,8 @@ Starting state: the repo was forked from the Wang-lab (SUSTech) Jekyll template 
 - Reworked `members/index.html` so Haibo remains the featured full profile and the rest of the team appears in grouped compact sections.
 - Grouped team members by seniority (`Postdoc`, `Ph.D. Students`, `Master's Students`, `Research Assistants`, `Visiting Student`, `Undergraduate Students`) and ordered people within each section by join date.
 - Refined the People page copy to emphasize that the team is an integral part of the Engineering Medicine Research Group, supervised by Academician Ning Gu and coordinated by Prof. Haibo Ni.
+
+### Research and openings update
+- Expanded the `research/index.md` research areas into fuller descriptions of ongoing directions.
+- Updated the digital-cell modeling area to explicitly include LLM-based modeling alongside hybrid AI and mechanistic ODE-based approaches.
+- Added a broader interdisciplinary welcome statement to the top of `openings/index.md`.

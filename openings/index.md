@@ -90,6 +90,10 @@ group: openings
 欢迎对数字心脏、数字孪生、复杂器官系统建模、人工智能和计算医学感兴趣的青年学者与研究人员加入团队。以下岗位信息根据现有招聘材料整理，便于在线浏览与持续更新。
 </p>
 
+<p class="openings-intro">
+We welcome motivated people from all research, educational, and cultural backgrounds. Our team values curiosity, rigor, openness, and mutual respect, and we believe that diverse perspectives strengthen how we ask questions, build collaborations, and advance digital heart research. We especially welcome trainees and collaborators who are excited to work across disciplines and bring new ideas into medicine, engineering, computation, and AI.
+</p>
+
 <section class="opening-card">
   <h2>南京大学医学院数字孪生方向招聘</h2>
   <p class="opening-meta">岗位类型：博士后、科研助理 | 研究方向：数字心脏、复杂器官系统建模、AI驱动数字孪生</p>
