@@ -1,0 +1,19 @@
+current directory: /home/haibo/Research/lab_website/haiboni.github.io/.bundle/vendor/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/haibo/Research/lab_website/haiboni.github.io/.bundle/vendor/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260424-3154691-skvqlb sitelibdir\=./.gem.20260424-3154691-skvqlb clean
+
+current directory: /home/haibo/Research/lab_website/haiboni.github.io/.bundle/vendor/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260424-3154691-skvqlb sitelibdir\=./.gem.20260424-3154691-skvqlb
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/haibo/Research/lab_website/haiboni.github.io/.bundle/vendor/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260424-3154691-skvqlb sitelibdir\=./.gem.20260424-3154691-skvqlb install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20260424-3154691-skvqlb
+
+current directory: /home/haibo/Research/lab_website/haiboni.github.io/.bundle/vendor/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260424-3154691-skvqlb sitelibdir\=./.gem.20260424-3154691-skvqlb clean

@@ -1,0 +1,55 @@
+name: "Home"
+description: "Welcome to my website"
+
+url: "haiboni.github.io"
+
+paginate: 5
+plugins: [jekyll-paginate]
+paginate_path: "news/page:num"
+# excerpt_separator: "\n\n"
+excerpt_separator: <!--more-->
+
+google_analytics: G-4MGJGN3E9S
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+sass:
+  sass_dir: _sass
+exclude:
+        - .sass-cache/
+        - .jekyll-cache/
+        - gemfiles/
+        - Gemfile
+        - Gemfile.lock
+        - node_modules/
+        - vendor/bundle/
+        - vendor/cache/
+        - vendor/gems/
+        - vendor/ruby/
+        - AI_readme.md
+        - AI_changelog.md
+        - README.md
+
+collections:
+        affiliates:
+                output: true
+        members:
+                output: true
+        about_me:
+                output: true
+        publications:
+                output: true
+        reviews:
+                output: true
+        alumni:
+                output: true
+        sep:
+                output: true
+        visitors:
+                output: true
+        undergrads:
+                output: true
+        pets:
+                output: true

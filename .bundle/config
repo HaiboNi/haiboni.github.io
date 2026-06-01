@@ -1,0 +1,3 @@
+---
+BUNDLE_PATH: ".bundle/vendor"
+BUNDLE_USER_HOME: ".bundle-home"
