@@ -35,6 +35,8 @@ Biophysical Journal 123 (3), 383a, 2024
 ---
 ### Peer-reviewed Journal Articles
 
+1. **Ni H**, Cao C, Zhou Y, Bai Y, Sheng J, Wang Y, Gu N. Digital heart initiative: an ecosystem for digital discovery and precision medicine in cardiology. ***National Science Review***. 2026;13(12):nwag302. doi:10.1093/nsr/nwag302
+
 1. Lang D\*, **Ni H**\*, Medvedev RY, Liu F, Alvarez-Baron CP, Tyan L, Turner DG, Warden A, Morotti S, Schrauth TA, Chanda B, Kamp TJ, Robertson GA, Grandi E, Glukhov AV. Caveolar compartmentalization of pacemaker signaling ensures stable sinoatrial rhythmicity which is disrupted in heart failure. ***JACC: Clinical Electrophysiology***. 2026. Online ahead of print. doi:10.1016/j.jacep.2026.01.003 [\*Co-first author]
 
 1. Herrera NT, **Ni H**, Smith CER, Wu Y, Dobrev D, Morotti S, Grandi E. Mechanistic insights into sex differences in atrial electrophysiology and arrhythmia vulnerability through sex-specific computational models. ***The Journal of Physiology***. 2025. doi:10.1113/JP289425

@@ -6,6 +6,19 @@ Newest entries first. When you make a change in a session, append a dated sectio
 
 ---
 
+## 2026-07-05 — Visiting student additions
+
+- Added Hailan Mo and Yushu Wu as active compact visiting-student entries in `_members/`, with `startdate: [2026-06-21]` based on the user note that both joined two weeks before 2026-07-05.
+
+---
+
+## 2026-07-05 — NSR digital heart initiative publication and news
+
+- Added the National Science Review Perspective article "Digital heart initiative: an ecosystem for digital discovery and precision medicine in cardiology" to `publications/index.md`.
+- Added `_posts/2026-05-25-Digital-Heart-Initiative-NSR.md` with a brief description of the four digital heart micro-ecosystems and the local `docs/post_images/nwag302fig1.jpeg` figure.
+
+---
+
 ## 2026-04-26 — Openings page, members flexibility, research/mission merge, visual cleanup
 
 ### Navigation and structure
